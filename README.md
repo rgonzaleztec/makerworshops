@@ -11,13 +11,14 @@ Materiales adicionales serán proporcionados solo para que puedan desarrollar lo
 **Forma de Trabajo**
 Es individual a menos que los facilitadores indiquen o el taller así lo requiera podrán juntarse para crear una mejor solución.
 
-
+## Conociendo el Circuit Playground
 ![Circuit Playground Conectores](https://github.com/rgonzaleztec/makerworshops/blob/master/images/cpdevS.jpg)
 
 
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1OTkzODMwMSw3NjUyMDQ4ODcsLTEwMz
-Y2ODM5NDFdfQ==
+eyJoaXN0b3J5IjpbLTIyMjMwMzAzNywxMzU5OTM4MzAxLDc2NT
+IwNDg4NywtMTAzNjY4Mzk0MV19
 -->
