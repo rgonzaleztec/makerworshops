@@ -14,13 +14,14 @@ Es individual a menos que los facilitadores indiquen o el taller así lo requier
 ## Conociendo el Circuit Playground
 ![Circuit Playground Conectores](https://github.com/rgonzaleztec/makerworshops/blob/master/images/cpdevS.jpg)
 **Versiones del Circuito**
-En la actualidad existen dos tipos de controladores uno denominado Express y el Classic, ambos son
+En la actualidad existen dos tipos de controladores uno denominado Express y el Classic, ambos nos permiten realizar actividades que podrían parecer increibles.
+Se identifican principalmente los modelos más nuevos 
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0OTAwMjQ5LDEzNTk5MzgzMDEsNzY1Mj
-A0ODg3LC0xMDM2NjgzOTQxXX0=
+eyJoaXN0b3J5IjpbLTE3ODQzMDY1MzcsMTM1OTkzODMwMSw3Nj
+UyMDQ4ODcsLTEwMzY2ODM5NDFdfQ==
 -->
