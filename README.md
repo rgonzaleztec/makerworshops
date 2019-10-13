@@ -1,4 +1,4 @@
-# makerworshops
+# Cultura Maker aprender haciendo
 
 ## Taller de Cultura Maker
 
@@ -14,5 +14,5 @@ Es individual a menos que los facilitadores indiquen o el taller así lo requier
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MDEwNTQ3OF19
+eyJoaXN0b3J5IjpbLTEwMzY2ODM5NDFdfQ==
 -->
