@@ -12,7 +12,11 @@ Materiales adicionales serán proporcionados solo para que puedan desarrollar lo
 Es individual a menos que los facilitadores indiquen o el taller así lo requiera podrán juntarse para crear una mejor solución.
 
 
+![Circuit Playground Conectores](https://learn.adafruit.com/assets/47489)
+
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzY2ODM5NDFdfQ==
+eyJoaXN0b3J5IjpbNzY1MjA0ODg3LC0xMDM2NjgzOTQxXX0=
 -->
