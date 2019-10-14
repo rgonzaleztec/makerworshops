@@ -20,17 +20,19 @@ En la actualidad existen dos tipos de controladores uno denominado Express y el 
 Se identifican principalmente en los modelos más recientes que se indica **Express** o **Classic**.
 
 **Caracteristicas de la placa**
-Esta placa aunque parece muy sencilla es bastante poderosa y viene con una cantidad de sensores muy interesantes, un conjunto de puertos, además de un gran ambito para programarla.
+Esta placa aunque parece muy sencilla es bastante poderosa y viene con una cantidad de sensores muy interesantes, un conjunto de puertos, además de un gran ambito de lenguajes para programarla.
 
-**Sensores**
+**Lenguajes**
 
  - Python
  - C (arduino)
  - C++ (arduino)
- - MakerCode
+ - MakeCode
+
+**Sensor
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxODg2NDAxNSwtMTc2NDg0MTA3OCwtMT
+eyJoaXN0b3J5IjpbLTg1NjY5ODIyNCwtMTc2NDg0MTA3OCwtMT
 U5NDg2MzQ1MywxNTU5ODUzNDEyLDEzNTk5MzgzMDEsNzY1MjA0
 ODg3LC0xMDM2NjgzOTQxXX0=
 -->
