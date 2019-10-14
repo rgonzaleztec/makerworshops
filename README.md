@@ -60,12 +60,13 @@ Tenemos un problema cada uno de los estudiantes de la clase a perdido su lámpar
  2. Cuáles son las dos figuras geométricas que más le gustan?
  3. Con cuál nombre le gusta que lo llamen?
 **Trabajo**
-Se le proporcionarán algunos elementos para que cree su lámpara
+Se le proporcionarán algunos elementos para que cree su lámpara, tendrá acceso a papel de construción, paletas, goma, tijeras y otros sorpresa.
+Antes de tomar los elementos piense, analice y con las respuestas de su 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDYzMDI3NzksMjgyMzk5NjE1LDIwMj
-E3NTI5ODAsNzIwMjA1MzgxLC0xODEzMjIxNTA4LDExNjg4NDk4
-NDcsMTY3NTkzNzAyMSwtMjAyMzM0MTM3NSwyMDcyODQzOTMyLC
-0xNzY0ODQxMDc4LC0xNTk0ODYzNDUzLDE1NTk4NTM0MTIsMTM1
-OTkzODMwMSw3NjUyMDQ4ODcsLTEwMzY2ODM5NDFdfQ==
+eyJoaXN0b3J5IjpbMTc4MjM1NzAwLDI4MjM5OTYxNSwyMDIxNz
+UyOTgwLDcyMDIwNTM4MSwtMTgxMzIyMTUwOCwxMTY4ODQ5ODQ3
+LDE2NzU5MzcwMjEsLTIwMjMzNDEzNzUsMjA3Mjg0MzkzMiwtMT
+c2NDg0MTA3OCwtMTU5NDg2MzQ1MywxNTU5ODUzNDEyLDEzNTk5
+MzgzMDEsNzY1MjA0ODg3LC0xMDM2NjgzOTQxXX0=
 -->
