@@ -56,12 +56,14 @@ Verificar que el software antes indicado este instalado en su computador. Para e
 ## Taller Creativo y si creamos una lámpara
 Tenemos un problema cada uno de los estudiantes de la clase a perdido su lámpara mágica, en este taller usted tendrá como reto crearle a un compañero. Para esto deberás buscar en el grupo un compañero sin lámpara y le preguntaras:
 
- 1. Cuáles son almenos tres de tus colores pre
+ 1. Cuáles son almenos tres de tus colores preferidos?
+ 2. Cuáles son las dos figuras geométricas que más le gustan?
+ 3. Con cuál
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMzM3NDYyOSwyODIzOTk2MTUsMjAyMT
-c1Mjk4MCw3MjAyMDUzODEsLTE4MTMyMjE1MDgsMTE2ODg0OTg0
-NywxNjc1OTM3MDIxLC0yMDIzMzQxMzc1LDIwNzI4NDM5MzIsLT
-E3NjQ4NDEwNzgsLTE1OTQ4NjM0NTMsMTU1OTg1MzQxMiwxMzU5
-OTM4MzAxLDc2NTIwNDg4NywtMTAzNjY4Mzk0MV19
+eyJoaXN0b3J5IjpbLTEzMzY3OTc3NjksMjgyMzk5NjE1LDIwMj
+E3NTI5ODAsNzIwMjA1MzgxLC0xODEzMjIxNTA4LDExNjg4NDk4
+NDcsMTY3NTkzNzAyMSwtMjAyMzM0MTM3NSwyMDcyODQzOTMyLC
+0xNzY0ODQxMDc4LC0xNTk0ODYzNDUzLDE1NTk4NTM0MTIsMTM1
+OTkzODMwMSw3NjUyMDQ4ODcsLTEwMzY2ODM5NDFdfQ==
 -->
