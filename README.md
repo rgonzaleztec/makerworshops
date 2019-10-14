@@ -40,13 +40,13 @@ Esta placa aunque parece muy sencilla es bastante poderosa y viene con una canti
 Son 8 puertos los cuales pueden ser utilizados mediante larguitos, soldandolos o hasta tocandolos.
 
 **Ademas**
-Tenemos 10 neopixels que pueden ser programados con casi cualquier color en formato RGB(Red,Green,Blue) [Selector de Colores](https://htmlcolorcodes.com/es/selector-de-color/). Dos botones para presionar, uno derecho y uno izquierdo que se puede detectar si están presionados o no.  Boton de switch que se puede combinar con alguna acción. Si quieres tocar música tienes un pequeño parlantito.
+Tenemos 10 neopixels que pueden ser programados con casi cualquier color en formato RGB(Red,Green,Blue) [Selector de Colores](https://htmlcolorcodes.com/es/selector-de-color/). Dos botones para presionar, uno derecho y uno izquierdo que se puede detectar si están presionados o no.  Boton de switch que se puede combinar con alguna acción. Si quieres realidad un pequeñmúsica tienes un pequeño parlantito.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2ODg0OTg0NywxNjc1OTM3MDIxLC0yMD
-IzMzQxMzc1LDIwNzI4NDM5MzIsLTE3NjQ4NDEwNzgsLTE1OTQ4
-NjM0NTMsMTU1OTg1MzQxMiwxMzU5OTM4MzAxLDc2NTIwNDg4Ny
-wtMTAzNjY4Mzk0MV19
+eyJoaXN0b3J5IjpbLTEzNDE2MDE3MzgsMTE2ODg0OTg0NywxNj
+c1OTM3MDIxLC0yMDIzMzQxMzc1LDIwNzI4NDM5MzIsLTE3NjQ4
+NDEwNzgsLTE1OTQ4NjM0NTMsMTU1OTg1MzQxMiwxMzU5OTM4Mz
+AxLDc2NTIwNDg4NywtMTAzNjY4Mzk0MV19
 -->
