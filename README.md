@@ -67,17 +67,17 @@ Tenemos un problema cada uno de los estudiantes de la clase a perdido su lámpar
 Se le proporcionarán algunos elementos para que cree su lámpara, tendrá acceso a papel de construción, paletas, goma, tijeras y otros sorpresa.
 Antes de tomar los elementos piense, analice y con las respuestas de su compañero cree una lámpara que lo represente. 
 Cuando tenga una primer idea de como la quiere crear empiece a trabajar, considere antes de armar su covertor de lámpara debe crear su circuito y el programa para que funcione.
-** El circuito (tiempo requerido 40minutos)**
+** El circuito (tiempo requerido 60minutos)**
 Utilizando la plantilla base vamos a aprender a modificarla. Descargue la plantilla del siguiente enlace([aqui](https://github.com/rgonzaleztec/makerworshops/blob/master/codigo/BasicoArduino.ino)).
 
-Vamos agregar có
+Vamos agregar código para cambiar el color sin tener que cambiar el código fuente y volverlo a subir. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTU5ODUxNjcsLTE4OTA1MzA4OTMsMj
-gyMzk5NjE1LDIwMjE3NTI5ODAsNzIwMjA1MzgxLC0xODEzMjIx
-NTA4LDExNjg4NDk4NDcsMTY3NTkzNzAyMSwtMjAyMzM0MTM3NS
-wyMDcyODQzOTMyLC0xNzY0ODQxMDc4LC0xNTk0ODYzNDUzLDE1
-NTk4NTM0MTIsMTM1OTkzODMwMSw3NjUyMDQ4ODcsLTEwMzY2OD
-M5NDFdfQ==
+eyJoaXN0b3J5IjpbMTUyMjY1NjYyNiwtMTg5MDUzMDg5MywyOD
+IzOTk2MTUsMjAyMTc1Mjk4MCw3MjAyMDUzODEsLTE4MTMyMjE1
+MDgsMTE2ODg0OTg0NywxNjc1OTM3MDIxLC0yMDIzMzQxMzc1LD
+IwNzI4NDM5MzIsLTE3NjQ4NDEwNzgsLTE1OTQ4NjM0NTMsMTU1
+OTg1MzQxMiwxMzU5OTM4MzAxLDc2NTIwNDg4NywtMTAzNjY4Mz
+k0MV19
 -->
