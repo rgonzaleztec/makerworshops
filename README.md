@@ -97,6 +97,11 @@ Algunos documentos para ir más adelante en este proceso de aprendizaje. No olvi
  - [Guía de Circuit Playground Express](https://github.com/rgonzaleztec/makerworshops/blob/master/documentos/adafruit-circuit-playground-express.pdf)
  - [Guía de Circuit Playground](https://github.com/rgonzaleztec/makerworshops/blob/master/documentos/introducing-circuit-playground.pdf)
 
+## Taller básico por bloques
+Gracias a la gran cantidad de opciones y facilidades que presenta la placa de Circuit PlayGround Express, se desarrollo una plataforma para Internet con la que podemos programar nuestro 
+
+
+
 ## Taller creativo intermedio
 En este taller vamos a trabajar con los actuadores y otros sensores que la placa nos facilita para hacer nuestra creatividad volar.
 Primero entenderemos como funciona el acelerometro de tres ejes, para lo que debe cargar el ejemplo como se muestra en la siguiente imagen.
@@ -115,11 +120,11 @@ Primero entenderemos como funciona el acelerometro de tres ejes, para lo que deb
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3OTU3MTQyNyw1MTEzNjEyNzcsMjAwMD
-UyODA0MywxMTA0NjEyNzIwLC0xMjU1MjAyMjM0LC0xMjc3MjQ0
-MjcsLTE4OTA1MzA4OTMsMjgyMzk5NjE1LDIwMjE3NTI5ODAsNz
-IwMjA1MzgxLC0xODEzMjIxNTA4LDExNjg4NDk4NDcsMTY3NTkz
-NzAyMSwtMjAyMzM0MTM3NSwyMDcyODQzOTMyLC0xNzY0ODQxMD
-c4LC0xNTk0ODYzNDUzLDE1NTk4NTM0MTIsMTM1OTkzODMwMSw3
-NjUyMDQ4ODddfQ==
+eyJoaXN0b3J5IjpbLTE2NDI3MzgwNDIsLTI3OTU3MTQyNyw1MT
+EzNjEyNzcsMjAwMDUyODA0MywxMTA0NjEyNzIwLC0xMjU1MjAy
+MjM0LC0xMjc3MjQ0MjcsLTE4OTA1MzA4OTMsMjgyMzk5NjE1LD
+IwMjE3NTI5ODAsNzIwMjA1MzgxLC0xODEzMjIxNTA4LDExNjg4
+NDk4NDcsMTY3NTkzNzAyMSwtMjAyMzM0MTM3NSwyMDcyODQzOT
+MyLC0xNzY0ODQxMDc4LC0xNTk0ODYzNDUzLDE1NTk4NTM0MTIs
+MTM1OTkzODMwMV19
 -->
