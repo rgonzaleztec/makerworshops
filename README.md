@@ -98,7 +98,8 @@ Algunos documentos para ir más adelante en este proceso de aprendizaje. No olvi
  - [Guía de Circuit Playground](https://github.com/rgonzaleztec/makerworshops/blob/master/documentos/introducing-circuit-playground.pdf)
 
 ## Taller básico por bloques
-Gracias a la gran cantidad de opciones y facilidades que presenta la placa de Circuit PlayGround Express, se desarrollo una plataforma para Internet con la que podemos programar nuestro 
+Gracias a la gran cantidad de opciones y facilidades que presenta la placa de Circuit PlayGround Express, se desarrollo una plataforma para Internet con la que podemos programar nuestro circuito. Los que han aprendido Scratch en sus clases de tecnología se sentirán totalmente cómodos programando en este laboratorio.
+Para inicar vamos a cargar la plataforma en un na
 
 
 
@@ -120,11 +121,11 @@ Primero entenderemos como funciona el acelerometro de tres ejes, para lo que deb
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDI3MzgwNDIsLTI3OTU3MTQyNyw1MT
-EzNjEyNzcsMjAwMDUyODA0MywxMTA0NjEyNzIwLC0xMjU1MjAy
-MjM0LC0xMjc3MjQ0MjcsLTE4OTA1MzA4OTMsMjgyMzk5NjE1LD
-IwMjE3NTI5ODAsNzIwMjA1MzgxLC0xODEzMjIxNTA4LDExNjg4
-NDk4NDcsMTY3NTkzNzAyMSwtMjAyMzM0MTM3NSwyMDcyODQzOT
-MyLC0xNzY0ODQxMDc4LC0xNTk0ODYzNDUzLDE1NTk4NTM0MTIs
-MTM1OTkzODMwMV19
+eyJoaXN0b3J5IjpbMTU4MjQ3ODU5NCwtMjc5NTcxNDI3LDUxMT
+M2MTI3NywyMDAwNTI4MDQzLDExMDQ2MTI3MjAsLTEyNTUyMDIy
+MzQsLTEyNzcyNDQyNywtMTg5MDUzMDg5MywyODIzOTk2MTUsMj
+AyMTc1Mjk4MCw3MjAyMDUzODEsLTE4MTMyMjE1MDgsMTE2ODg0
+OTg0NywxNjc1OTM3MDIxLC0yMDIzMzQxMzc1LDIwNzI4NDM5Mz
+IsLTE3NjQ4NDEwNzgsLTE1OTQ4NjM0NTMsMTU1OTg1MzQxMiwx
+MzU5OTM4MzAxXX0=
 -->
