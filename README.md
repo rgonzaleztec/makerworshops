@@ -40,10 +40,10 @@ Esta placa aunque parece muy sencilla es bastante poderosa y viene con una canti
 Son 8 puertos los cuales pueden ser utilizados mediante larguitos, soldandolos o hasta tocandolos.
 
 **Ademas**
-Tenemos 10 neopixels que pueden ser 
+Tenemos 10 neopixels que pueden ser programados con casi cualquier color en formato RGB(Red,Green,Blue)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNzU3Mjg1MywyMDcyODQzOTMyLC0xNz
+eyJoaXN0b3J5IjpbMTM4MzI1MDI0OSwyMDcyODQzOTMyLC0xNz
 Y0ODQxMDc4LC0xNTk0ODYzNDUzLDE1NTk4NTM0MTIsMTM1OTkz
 ODMwMSw3NjUyMDQ4ODcsLTEwMzY2ODM5NDFdfQ==
 -->
