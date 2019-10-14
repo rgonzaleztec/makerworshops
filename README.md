@@ -91,6 +91,8 @@ Ver el siguiente código:
 Ahora que ya saben como programar un color y cambiarlo con un boton, **Cómo podemos hacerlo para algún otro led?**
 *Le recordamos que tenemos 10 neopixel*
 
+Vamos a probar otro código que les puede ayudar con su proyecto descargar el siguiente código ([aquí](https://github.com/rgonzaleztec/makerworshops/blob/master/codigo/BasicoArduino2.ino)). 
+
 
     
 
@@ -98,10 +100,10 @@ Ahora que ya saben como programar un color y cambiarlo con un boton, **Cómo pod
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzcyNDQyNywtMTg5MDUzMDg5MywyOD
-IzOTk2MTUsMjAyMTc1Mjk4MCw3MjAyMDUzODEsLTE4MTMyMjE1
-MDgsMTE2ODg0OTg0NywxNjc1OTM3MDIxLC0yMDIzMzQxMzc1LD
-IwNzI4NDM5MzIsLTE3NjQ4NDEwNzgsLTE1OTQ4NjM0NTMsMTU1
-OTg1MzQxMiwxMzU5OTM4MzAxLDc2NTIwNDg4NywtMTAzNjY4Mz
-k0MV19
+eyJoaXN0b3J5IjpbLTEyNTUyMDIyMzQsLTEyNzcyNDQyNywtMT
+g5MDUzMDg5MywyODIzOTk2MTUsMjAyMTc1Mjk4MCw3MjAyMDUz
+ODEsLTE4MTMyMjE1MDgsMTE2ODg0OTg0NywxNjc1OTM3MDIxLC
+0yMDIzMzQxMzc1LDIwNzI4NDM5MzIsLTE3NjQ4NDEwNzgsLTE1
+OTQ4NjM0NTMsMTU1OTg1MzQxMiwxMzU5OTM4MzAxLDc2NTIwND
+g4NywtMTAzNjY4Mzk0MV19
 -->
