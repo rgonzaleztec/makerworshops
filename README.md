@@ -61,10 +61,11 @@ Tenemos un problema cada uno de los estudiantes de la clase a perdido su lámpar
  3. Con cuál nombre le gusta que lo llamen?
 **Trabajo**
 Se le proporcionarán algunos elementos para que cree su lámpara, tendrá acceso a papel de construción, paletas, goma, tijeras y otros sorpresa.
-Antes de tomar los elementos piense, analice y con las respuestas de su 
+Antes de tomar los elementos piense, analice y con las respuestas de su compañero cree una lámpara que lo represente. 
+Cuando tenga una primer idea de como la quiere crear empiece a trabajar, considere antes de armar su covertor de lámpara
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MjM1NzAwLDI4MjM5OTYxNSwyMDIxNz
+eyJoaXN0b3J5IjpbOTcwMzc4OTE0LDI4MjM5OTYxNSwyMDIxNz
 UyOTgwLDcyMDIwNTM4MSwtMTgxMzIyMTUwOCwxMTY4ODQ5ODQ3
 LDE2NzU5MzcwMjEsLTIwMjMzNDEzNzUsMjA3Mjg0MzkzMiwtMT
 c2NDg0MTA3OCwtMTU5NDg2MzQ1MywxNTU5ODUzNDEyLDEzNTk5
