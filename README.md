@@ -97,6 +97,9 @@ Algunos documentos para ir más adelante en este proceso de aprendizaje. No olvi
  - [Guía de Circuit Playground Express](https://github.com/rgonzaleztec/makerworshops/blob/master/documentos/adafruit-circuit-playground-express.pdf)
  - [Guía de Circuit Playground](https://github.com/rgonzaleztec/makerworshops/blob/master/documentos/introducing-circuit-playground.pdf)
 
+**Espacio de 30 minutos para que presenten los resultados de sus lámparas**
+
+
 ## Taller básico por bloques
 Gracias a la gran cantidad de opciones y facilidades que presenta la placa de Circuit PlayGround Express, se desarrollo una plataforma para Internet con la que podemos programar nuestro circuito. Los que han aprendido Scratch en sus clases de tecnología se sentirán totalmente cómodos programando en este laboratorio.
 Para inicar vamos a cargar la plataforma en un navegador para Internet, por lo que por favor abran el siguiente enlace ([aquí](https://makecode.adafruit.com/#editor)).
@@ -122,11 +125,11 @@ Primero entenderemos como funciona el acelerometro de tres ejes, para lo que deb
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTgxODY0MDksLTM4NDc4NDU4NiwtMj
-c5NTcxNDI3LDUxMTM2MTI3NywyMDAwNTI4MDQzLDExMDQ2MTI3
-MjAsLTEyNTUyMDIyMzQsLTEyNzcyNDQyNywtMTg5MDUzMDg5My
-wyODIzOTk2MTUsMjAyMTc1Mjk4MCw3MjAyMDUzODEsLTE4MTMy
-MjE1MDgsMTE2ODg0OTg0NywxNjc1OTM3MDIxLC0yMDIzMzQxMz
-c1LDIwNzI4NDM5MzIsLTE3NjQ4NDEwNzgsLTE1OTQ4NjM0NTMs
-MTU1OTg1MzQxMl19
+eyJoaXN0b3J5IjpbMTU5MDkyMzE4NCwtMTg1ODE4NjQwOSwtMz
+g0Nzg0NTg2LC0yNzk1NzE0MjcsNTExMzYxMjc3LDIwMDA1Mjgw
+NDMsMTEwNDYxMjcyMCwtMTI1NTIwMjIzNCwtMTI3NzI0NDI3LC
+0xODkwNTMwODkzLDI4MjM5OTYxNSwyMDIxNzUyOTgwLDcyMDIw
+NTM4MSwtMTgxMzIyMTUwOCwxMTY4ODQ5ODQ3LDE2NzU5MzcwMj
+EsLTIwMjMzNDEzNzUsMjA3Mjg0MzkzMiwtMTc2NDg0MTA3OCwt
+MTU5NDg2MzQ1M119
 -->
