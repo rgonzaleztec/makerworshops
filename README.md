@@ -59,18 +59,19 @@ Tenemos un problema cada uno de los estudiantes de la clase a perdido su lámpar
  1. Cuáles son almenos tres de tus colores preferidos?
  2. Cuáles son las dos figuras geométricas que más le gustan?
  3. Con cuál nombre le gusta que lo llamen?
-**Trabajo**
+**Trabajo (tiempo requerido 25minutos)**
 Se le proporcionarán algunos elementos para que cree su lámpara, tendrá acceso a papel de construción, paletas, goma, tijeras y otros sorpresa.
 Antes de tomar los elementos piense, analice y con las respuestas de su compañero cree una lámpara que lo represente. 
 Cuando tenga una primer idea de como la quiere crear empiece a trabajar, considere antes de armar su covertor de lámpara debe crear su circuito y el programa para que funcione.
-** El circuito**
+** El circuito (tiempo requerido 40minutos)**
 Utilizando la plantilla base vamos a aprender a modificarla. Descargue la plantilla del siguiente enlace([aqui](https://github.com/rgonzaleztec/makerworshops/blob/master/codigo/BasicoArduino.ino)).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTA1MzA4OTMsMjgyMzk5NjE1LDIwMj
-E3NTI5ODAsNzIwMjA1MzgxLC0xODEzMjIxNTA4LDExNjg4NDk4
-NDcsMTY3NTkzNzAyMSwtMjAyMzM0MTM3NSwyMDcyODQzOTMyLC
-0xNzY0ODQxMDc4LC0xNTk0ODYzNDUzLDE1NTk4NTM0MTIsMTM1
-OTkzODMwMSw3NjUyMDQ4ODcsLTEwMzY2ODM5NDFdfQ==
+eyJoaXN0b3J5IjpbMzQ2MjQyNjgsLTE4OTA1MzA4OTMsMjgyMz
+k5NjE1LDIwMjE3NTI5ODAsNzIwMjA1MzgxLC0xODEzMjIxNTA4
+LDExNjg4NDk4NDcsMTY3NTkzNzAyMSwtMjAyMzM0MTM3NSwyMD
+cyODQzOTMyLC0xNzY0ODQxMDc4LC0xNTk0ODYzNDUzLDE1NTk4
+NTM0MTIsMTM1OTkzODMwMSw3NjUyMDQ4ODcsLTEwMzY2ODM5ND
+FdfQ==
 -->
