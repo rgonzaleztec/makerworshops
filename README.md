@@ -20,7 +20,9 @@ En la actualidad existen dos tipos de controladores uno denominado Express y el 
 Se identifican principalmente en los modelos más recientes que se indica **Express** o **Classic**.
 
 **Caracteristicas de la placa**
-Esta placa aunque parece muy sencilla es bastante poderosa
+Esta placa aunque parece muy sencilla es bastante poderosa y viene con una cantidad de sensores muy interesantes, un conjunto de puertos, además de un gran ambito para programarla.
+
+**Sensores**
 
 
 
@@ -29,7 +31,7 @@ Esta placa aunque parece muy sencilla es bastante poderosa
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MzUxNzkyOCwtMTU5NDg2MzQ1MywxNT
-U5ODUzNDEyLDEzNTk5MzgzMDEsNzY1MjA0ODg3LC0xMDM2Njgz
-OTQxXX0=
+eyJoaXN0b3J5IjpbNjAzNDQ0ODM2LC0xNTk0ODYzNDUzLDE1NT
+k4NTM0MTIsMTM1OTkzODMwMSw3NjUyMDQ4ODcsLTEwMzY2ODM5
+NDFdfQ==
 -->
