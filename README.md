@@ -58,10 +58,12 @@ Tenemos un problema cada uno de los estudiantes de la clase a perdido su lámpar
 
  1. Cuáles son almenos tres de tus colores preferidos?
  2. Cuáles son las dos figuras geométricas que más le gustan?
- 3. Con cuál
+ 3. Con cuál nombre le gusta que lo llamen?
+**Trabajo**
+Se le proporcionarán algunos elementos para que cree su lámpara
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzY3OTc3NjksMjgyMzk5NjE1LDIwMj
+eyJoaXN0b3J5IjpbLTE4NDYzMDI3NzksMjgyMzk5NjE1LDIwMj
 E3NTI5ODAsNzIwMjA1MzgxLC0xODEzMjIxNTA4LDExNjg4NDk4
 NDcsMTY3NTkzNzAyMSwtMjAyMzM0MTM3NSwyMDcyODQzOTMyLC
 0xNzY0ODQxMDc4LC0xNTk0ODYzNDUzLDE1NTk4NTM0MTIsMTM1
