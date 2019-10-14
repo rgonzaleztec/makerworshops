@@ -19,7 +19,8 @@ Es individual a menos que los facilitadores indiquen o el taller así lo requier
 En la actualidad existen dos tipos de controladores uno denominado Express y el Classic, ambos nos permiten realizar actividades que podrían parecer increibles.
 Se identifican principalmente en los modelos más recientes que se indica **Express** o **Classic**.
 
-**Ahora examinaremos el kit de cada uno**
+**Caracteristicas de la placa**
+Esta placa aunque parece muy sencilla es bastante poderosa
 
 
 
@@ -28,6 +29,7 @@ Se identifican principalmente en los modelos más recientes que se indica **Expr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTQ4NjM0NTMsMTU1OTg1MzQxMiwxMz
-U5OTM4MzAxLDc2NTIwNDg4NywtMTAzNjY4Mzk0MV19
+eyJoaXN0b3J5IjpbMTM4MzUxNzkyOCwtMTU5NDg2MzQ1MywxNT
+U5ODUzNDEyLDEzNTk5MzgzMDEsNzY1MjA0ODg3LC0xMDM2Njgz
+OTQxXX0=
 -->
