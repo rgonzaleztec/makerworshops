@@ -76,8 +76,10 @@ Ver el siguiente código:
     if(digitalRead(leftButton)) 
     {   // Si leer boton izquierdo es verdadero
 	    encenderLed(1, 0,255,0,255);    // Verde
+	    delay(2000); // espera
 	}
-	else if
+	else if(digitalRead(rightButton)) { // Si leer boton izquierdo es verdadero
+		encenderLed(1, 0,,0,255);    // Azul
   `ente  }
   else if(digitalRead(rightButton)) { // if reading the right button returns true
     makeTone(speaker,1760,100);   // output a 1760 Hz sound for a tenth of a second                    
@@ -89,10 +91,10 @@ Ver el siguiente código:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzA1NTUxNzUsLTE4OTA1MzA4OTMsMj
-gyMzk5NjE1LDIwMjE3NTI5ODAsNzIwMjA1MzgxLC0xODEzMjIx
-NTA4LDExNjg4NDk4NDcsMTY3NTkzNzAyMSwtMjAyMzM0MTM3NS
-wyMDcyODQzOTMyLC0xNzY0ODQxMDc4LC0xNTk0ODYzNDUzLDE1
-NTk4NTM0MTIsMTM1OTkzODMwMSw3NjUyMDQ4ODcsLTEwMzY2OD
-M5NDFdfQ==
+eyJoaXN0b3J5IjpbNjE3NDg1NDk5LC0xODkwNTMwODkzLDI4Mj
+M5OTYxNSwyMDIxNzUyOTgwLDcyMDIwNTM4MSwtMTgxMzIyMTUw
+OCwxMTY4ODQ5ODQ3LDE2NzU5MzcwMjEsLTIwMjMzNDEzNzUsMj
+A3Mjg0MzkzMiwtMTc2NDg0MTA3OCwtMTU5NDg2MzQ1MywxNTU5
+ODUzNDEyLDEzNTk5MzgzMDEsNzY1MjA0ODg3LC0xMDM2NjgzOT
+QxXX0=
 -->
