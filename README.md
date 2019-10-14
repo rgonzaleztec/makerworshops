@@ -51,8 +51,10 @@ Vamos a interactuar por primera vez con la placa circuit playground, para lo cua
  - [Arduino Studio](https://www.arduino.cc/en/Main/Software) (versión reciente)
  - [Controladores de CPG para Windows](https://github.com/adafruit/Adafruit_Windows_Drivers/releases/tag/2.4.0.0)
 
+Verificar que el software antes indicado este instalado en su computador. Para ellos vamos a ejecutar el Arduino Studio y cargaremos el ejemplo de Blink que debe estar
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MTM3OTkzLC0xODEzMjIxNTA4LDExNj
+eyJoaXN0b3J5IjpbNzIwMjA1MzgxLC0xODEzMjIxNTA4LDExNj
 g4NDk4NDcsMTY3NTkzNzAyMSwtMjAyMzM0MTM3NSwyMDcyODQz
 OTMyLC0xNzY0ODQxMDc4LC0xNTk0ODYzNDUzLDE1NTk4NTM0MT
 IsMTM1OTkzODMwMSw3NjUyMDQ4ODcsLTEwMzY2ODM5NDFdfQ==
