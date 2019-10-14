@@ -48,13 +48,13 @@ Vamos a trabajar un poco nuestros nuevos componentes.
 ## Taller Básico empezando de cero
 Vamos a interactuar por primera vez con la placa circuit playground, para lo cual debemos tener instalado en nuestro computador el siguiente software:
 
- - Arduino Studio (versión reciente)
- - 
+ - [Arduino Studio](https://www.arduino.cc/en/Main/Software) (versión reciente)
+ - [Controladores de CPG para Windows](https://github.com/adafruit/Adafruit_Windows_Drivers/releases/tag/2.4.0.0)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNjk1NzU5MCwtMTgxMzIyMTUwOCwxMT
-Y4ODQ5ODQ3LDE2NzU5MzcwMjEsLTIwMjMzNDEzNzUsMjA3Mjg0
-MzkzMiwtMTc2NDg0MTA3OCwtMTU5NDg2MzQ1MywxNTU5ODUzND
-EyLDEzNTk5MzgzMDEsNzY1MjA0ODg3LC0xMDM2NjgzOTQxXX0=
+eyJoaXN0b3J5IjpbLTU4MTM3OTkzLC0xODEzMjIxNTA4LDExNj
+g4NDk4NDcsMTY3NTkzNzAyMSwtMjAyMzM0MTM3NSwyMDcyODQz
+OTMyLC0xNzY0ODQxMDc4LC0xNTk0ODYzNDUzLDE1NTk4NTM0MT
+IsMTM1OTkzODMwMSw3NjUyMDQ4ODcsLTEwMzY2ODM5NDFdfQ==
 
 -->
