@@ -70,11 +70,12 @@ Cuando tenga una primer idea de como la quiere crear empiece a trabajar, conside
 ** El circuito (tiempo requerido 60minutos)**
 Utilizando la plantilla base vamos a aprender a modificarla. Descargue la plantilla del siguiente enlace([aqui](https://github.com/rgonzaleztec/makerworshops/blob/master/codigo/BasicoArduino.ino)).
 
-Vamos agregar código para cambiar el color sin tener que cambiar el código fuente y volverlo a subir. 
+Vamos agregar código para cambiar el color sin tener que cambiar el código fuente y volverlo a subir.  Vamos incluir la acción de presionar un botón para que sea m
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMjY1NjYyNiwtMTg5MDUzMDg5MywyOD
+eyJoaXN0b3J5IjpbLTU5MDg4NzA0MCwtMTg5MDUzMDg5MywyOD
 IzOTk2MTUsMjAyMTc1Mjk4MCw3MjAyMDUzODEsLTE4MTMyMjE1
 MDgsMTE2ODg0OTg0NywxNjc1OTM3MDIxLC0yMDIzMzQxMzc1LD
 IwNzI4NDM5MzIsLTE3NjQ4NDEwNzgsLTE1OTQ4NjM0NTMsMTU1
