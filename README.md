@@ -54,13 +54,13 @@ Vamos a interactuar por primera vez con la placa circuit playground, para lo cua
 Verificar que el software antes indicado este instalado en su computador. Para ellos vamos a ejecutar el Arduino Studio y cargaremos el ejemplo de demo que trae la placa al instalarse. Ver la siguiente imagen.
 ![Demo](https://github.com/rgonzaleztec/makerworshops/blob/master/images/EjemploDemoCPG.png)
 ## Taller Creativo y si creamos una lámpara
-
+Tenemos un problema cada uno de los estudiantes de la clase a perdido su lámpara mágica, en este taller 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NTEwOTg4LDIwMjE3NTI5ODAsNzIwMj
-A1MzgxLC0xODEzMjIxNTA4LDExNjg4NDk4NDcsMTY3NTkzNzAy
-MSwtMjAyMzM0MTM3NSwyMDcyODQzOTMyLC0xNzY0ODQxMDc4LC
-0xNTk0ODYzNDUzLDE1NTk4NTM0MTIsMTM1OTkzODMwMSw3NjUy
-MDQ4ODcsLTEwMzY2ODM5NDFdfQ==
+eyJoaXN0b3J5IjpbMTQ4NDQ0MDgwNSwyMDIxNzUyOTgwLDcyMD
+IwNTM4MSwtMTgxMzIyMTUwOCwxMTY4ODQ5ODQ3LDE2NzU5Mzcw
+MjEsLTIwMjMzNDEzNzUsMjA3Mjg0MzkzMiwtMTc2NDg0MTA3OC
+wtMTU5NDg2MzQ1MywxNTU5ODUzNDEyLDEzNTk5MzgzMDEsNzY1
+MjA0ODg3LC0xMDM2NjgzOTQxXX0=
 -->
