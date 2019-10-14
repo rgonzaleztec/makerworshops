@@ -70,9 +70,11 @@ Cuando tenga una primer idea de como la quiere crear empiece a trabajar, conside
 ** El circuito (tiempo requerido 40minutos)**
 Utilizando la plantilla base vamos a aprender a modificarla. Descargue la plantilla del siguiente enlace([aqui](https://github.com/rgonzaleztec/makerworshops/blob/master/codigo/BasicoArduino.ino)).
 
+Vamos agregar có
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzYxODQwNjQsLTE4OTA1MzA4OTMsMj
+eyJoaXN0b3J5IjpbLTEwNTU5ODUxNjcsLTE4OTA1MzA4OTMsMj
 gyMzk5NjE1LDIwMjE3NTI5ODAsNzIwMjA1MzgxLC0xODEzMjIx
 NTA4LDExNjg4NDk4NDcsMTY3NTkzNzAyMSwtMjAyMzM0MTM3NS
 wyMDcyODQzOTMyLC0xNzY0ODQxMDc4LC0xNTk0ODYzNDUzLDE1
