@@ -92,7 +92,8 @@ Ahora que ya saben como programar un color y cambiarlo con un boton, **Cómo pod
 *Le recordamos que tenemos 10 neopixel*
 
 Vamos a probar otro código que les puede ayudar con su proyecto descargar el siguiente código ([aquí](https://github.com/rgonzaleztec/makerworshops/blob/master/codigo/BasicoArduino2.ino)). 
-
+Algunos documentos para ir más adelante en este proceso de aprendizaje. No olviden que pueden preguntar a los instructores como agregar alguna idea más. 
+Guia de Circuit 
 
 
     
@@ -101,10 +102,10 @@ Vamos a probar otro código que les puede ayudar con su proyecto descargar el si
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0Nzg2NzM4MCwtMTI1NTIwMjIzNCwtMT
-I3NzI0NDI3LC0xODkwNTMwODkzLDI4MjM5OTYxNSwyMDIxNzUy
-OTgwLDcyMDIwNTM4MSwtMTgxMzIyMTUwOCwxMTY4ODQ5ODQ3LD
-E2NzU5MzcwMjEsLTIwMjMzNDEzNzUsMjA3Mjg0MzkzMiwtMTc2
-NDg0MTA3OCwtMTU5NDg2MzQ1MywxNTU5ODUzNDEyLDEzNTk5Mz
-gzMDEsNzY1MjA0ODg3LC0xMDM2NjgzOTQxXX0=
+eyJoaXN0b3J5IjpbOTk5NTkwNDI4LC0xMjU1MjAyMjM0LC0xMj
+c3MjQ0MjcsLTE4OTA1MzA4OTMsMjgyMzk5NjE1LDIwMjE3NTI5
+ODAsNzIwMjA1MzgxLC0xODEzMjIxNTA4LDExNjg4NDk4NDcsMT
+Y3NTkzNzAyMSwtMjAyMzM0MTM3NSwyMDcyODQzOTMyLC0xNzY0
+ODQxMDc4LC0xNTk0ODYzNDUzLDE1NTk4NTM0MTIsMTM1OTkzOD
+MwMSw3NjUyMDQ4ODcsLTEwMzY2ODM5NDFdfQ==
 -->
