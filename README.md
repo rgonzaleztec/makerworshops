@@ -62,12 +62,12 @@ Tenemos un problema cada uno de los estudiantes de la clase a perdido su lámpar
 **Trabajo**
 Se le proporcionarán algunos elementos para que cree su lámpara, tendrá acceso a papel de construción, paletas, goma, tijeras y otros sorpresa.
 Antes de tomar los elementos piense, analice y con las respuestas de su compañero cree una lámpara que lo represente. 
-Cuando tenga una primer idea de como la quiere crear empiece a trabajar, considere antes de armar su covertor de lámpara
+Cuando tenga una primer idea de como la quiere crear empiece a trabajar, considere antes de armar su covertor de lámpara debe
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcwMzc4OTE0LDI4MjM5OTYxNSwyMDIxNz
-UyOTgwLDcyMDIwNTM4MSwtMTgxMzIyMTUwOCwxMTY4ODQ5ODQ3
-LDE2NzU5MzcwMjEsLTIwMjMzNDEzNzUsMjA3Mjg0MzkzMiwtMT
-c2NDg0MTA3OCwtMTU5NDg2MzQ1MywxNTU5ODUzNDEyLDEzNTk5
-MzgzMDEsNzY1MjA0ODg3LC0xMDM2NjgzOTQxXX0=
+eyJoaXN0b3J5IjpbLTE2MTA1MDY5MDIsMjgyMzk5NjE1LDIwMj
+E3NTI5ODAsNzIwMjA1MzgxLC0xODEzMjIxNTA4LDExNjg4NDk4
+NDcsMTY3NTkzNzAyMSwtMjAyMzM0MTM3NSwyMDcyODQzOTMyLC
+0xNzY0ODQxMDc4LC0xNTk0ODYzNDUzLDE1NTk4NTM0MTIsMTM1
+OTkzODMwMSw3NjUyMDQ4ODcsLTEwMzY2ODM5NDFdfQ==
 -->
