@@ -44,13 +44,13 @@ Tenemos 10 neopixels que pueden ser programados con casi cualquier color en form
 Vamos a trabajar un poco nuestros nuevos componentes.
 
 ## Taller Básico empezando de cero
-Vamos a interactuar por primera vez con la placa circuit playground, para lo cual debemos tener instalado en nuestro computador lo
+Vamos a interactuar por primera vez con la placa circuit playground, para lo cual debemos tener instalado en nuestro computador el siguiente software:
 
-
-
+ - Arduino Studio (versión reciente)
+ - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTc3NzU5MTIsMTE2ODg0OTg0NywxNj
+eyJoaXN0b3J5IjpbLTE4MTMyMjE1MDgsMTE2ODg0OTg0NywxNj
 c1OTM3MDIxLC0yMDIzMzQxMzc1LDIwNzI4NDM5MzIsLTE3NjQ4
 NDEwNzgsLTE1OTQ4NjM0NTMsMTU1OTg1MzQxMiwxMzU5OTM4Mz
 AxLDc2NTIwNDg4NywtMTAzNjY4Mzk0MV19
