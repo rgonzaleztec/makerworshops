@@ -46,6 +46,7 @@ Vamos a trabajar un poco nuestros nuevos componentes.
 [Imagen etiquetada del circuito](https://github.com/rgonzaleztec/makerworshops/blob/master/images/classic-labeled.jpg)
 
 ## Taller Básico empezando de cero
+**Tiempo requerido total 
 Vamos a interactuar por primera vez con la placa circuit playground, para lo cual debemos tener instalado en nuestro computador el siguiente software:
 
  - [Arduino Studio](https://www.arduino.cc/en/Main/Software) (versión reciente)
@@ -68,10 +69,10 @@ Utilizando la plantilla base vamos a aprender a modificarla. Descargue la planti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ2MjQyNjgsLTE4OTA1MzA4OTMsMjgyMz
-k5NjE1LDIwMjE3NTI5ODAsNzIwMjA1MzgxLC0xODEzMjIxNTA4
-LDExNjg4NDk4NDcsMTY3NTkzNzAyMSwtMjAyMzM0MTM3NSwyMD
-cyODQzOTMyLC0xNzY0ODQxMDc4LC0xNTk0ODYzNDUzLDE1NTk4
-NTM0MTIsMTM1OTkzODMwMSw3NjUyMDQ4ODcsLTEwMzY2ODM5ND
-FdfQ==
+eyJoaXN0b3J5IjpbMTgyNjY3MTg4OCwtMTg5MDUzMDg5MywyOD
+IzOTk2MTUsMjAyMTc1Mjk4MCw3MjAyMDUzODEsLTE4MTMyMjE1
+MDgsMTE2ODg0OTg0NywxNjc1OTM3MDIxLC0yMDIzMzQxMzc1LD
+IwNzI4NDM5MzIsLTE3NjQ4NDEwNzgsLTE1OTQ4NjM0NTMsMTU1
+OTg1MzQxMiwxMzU5OTM4MzAxLDc2NTIwNDg4NywtMTAzNjY4Mz
+k0MV19
 -->
