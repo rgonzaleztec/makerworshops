@@ -73,14 +73,25 @@ Utilizando la plantilla base vamos a aprender a modificarla. Descargue la planti
 Vamos agregar código para cambiar el color sin tener que cambiar el código fuente y volverlo a subir.  Vamos incluir la acción de presionar un botón para que sea más divertido el cambio.
 Ver el siguiente código:
 
+    if(digitalRead(leftButton)) {   // if reading the left button returns true
+    makeTone(speaker,440,100);    // output a 440 Hz sound for a tenth of a second
+      }
+  `ente  }
+  else if(digitalRead(rightButton)) { // if reading the right button returns true
+    makeTone(speaker,1760,100);   // output a 1760 Hz sound for a tenth of a second                    
+  }else if(digitalRead(rightButton)) { // if reading the right button returns true
+    makeTone(speaker,1760,100);   // output a 1760 Hz sound for a tenth of a second                    
+  }
+    
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MjE4OTg2NCwtMTg5MDUzMDg5MywyOD
-IzOTk2MTUsMjAyMTc1Mjk4MCw3MjAyMDUzODEsLTE4MTMyMjE1
-MDgsMTE2ODg0OTg0NywxNjc1OTM3MDIxLC0yMDIzMzQxMzc1LD
-IwNzI4NDM5MzIsLTE3NjQ4NDEwNzgsLTE1OTQ4NjM0NTMsMTU1
-OTg1MzQxMiwxMzU5OTM4MzAxLDc2NTIwNDg4NywtMTAzNjY4Mz
-k0MV19
+eyJoaXN0b3J5IjpbLTE2MTQwNTQ0OTMsLTE4OTA1MzA4OTMsMj
+gyMzk5NjE1LDIwMjE3NTI5ODAsNzIwMjA1MzgxLC0xODEzMjIx
+NTA4LDExNjg4NDk4NDcsMTY3NTkzNzAyMSwtMjAyMzM0MTM3NS
+wyMDcyODQzOTMyLC0xNzY0ODQxMDc4LC0xNTk0ODYzNDUzLDE1
+NTk4NTM0MTIsMTM1OTkzODMwMSw3NjUyMDQ4ODcsLTEwMzY2OD
+M5NDFdfQ==
 -->
