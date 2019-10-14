@@ -41,13 +41,14 @@ Son 8 puertos los cuales pueden ser utilizados mediante larguitos, soldandolos o
 
 **Ademas**
 Tenemos 10 neopixels que pueden ser programados con casi cualquier color en formato RGB(Red,Green,Blue) [Selector de Colores](https://htmlcolorcodes.com/es/selector-de-color/). Dos botones para presionar, uno derecho y uno izquierdo que se puede detectar si están presionados o no.  Boton de switch que se puede combinar con alguna acción. Si quieres realidad un pequeño sonido digital o análogo tienes pequeño parlantito.
+Vamos a trabaj
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjczMDk3NzkxLDExNjg4NDk4NDcsMTY3NT
-kzNzAyMSwtMjAyMzM0MTM3NSwyMDcyODQzOTMyLC0xNzY0ODQx
-MDc4LC0xNTk0ODYzNDUzLDE1NTk4NTM0MTIsMTM1OTkzODMwMS
-w3NjUyMDQ4ODcsLTEwMzY2ODM5NDFdfQ==
+eyJoaXN0b3J5IjpbMjEyOTYyNTE5NiwxMTY4ODQ5ODQ3LDE2Nz
+U5MzcwMjEsLTIwMjMzNDEzNzUsMjA3Mjg0MzkzMiwtMTc2NDg0
+MTA3OCwtMTU5NDg2MzQ1MywxNTU5ODUzNDEyLDEzNTk5MzgzMD
+EsNzY1MjA0ODg3LC0xMDM2NjgzOTQxXX0=
 -->
