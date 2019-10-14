@@ -29,10 +29,14 @@ Esta placa aunque parece muy sencilla es bastante poderosa y viene con una canti
  - C++ (arduino)
  - MakeCode
 
-**Sensor
+**Sensores**
+
+ - Temperatura A0
+ - Luz A5
+ - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NjY5ODIyNCwtMTc2NDg0MTA3OCwtMT
+eyJoaXN0b3J5IjpbMTc3NDM5MDQzNSwtMTc2NDg0MTA3OCwtMT
 U5NDg2MzQ1MywxNTU5ODUzNDEyLDEzNTk5MzgzMDEsNzY1MjA0
 ODg3LC0xMDM2NjgzOTQxXX0=
 -->
