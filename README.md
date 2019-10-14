@@ -94,16 +94,17 @@ Ahora que ya saben como programar un color y cambiarlo con un boton, **Cómo pod
 Vamos a probar otro código que les puede ayudar con su proyecto descargar el siguiente código ([aquí](https://github.com/rgonzaleztec/makerworshops/blob/master/codigo/BasicoArduino2.ino)). 
 
 
+
     
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTUyMDIyMzQsLTEyNzcyNDQyNywtMT
-g5MDUzMDg5MywyODIzOTk2MTUsMjAyMTc1Mjk4MCw3MjAyMDUz
-ODEsLTE4MTMyMjE1MDgsMTE2ODg0OTg0NywxNjc1OTM3MDIxLC
-0yMDIzMzQxMzc1LDIwNzI4NDM5MzIsLTE3NjQ4NDEwNzgsLTE1
-OTQ4NjM0NTMsMTU1OTg1MzQxMiwxMzU5OTM4MzAxLDc2NTIwND
-g4NywtMTAzNjY4Mzk0MV19
+eyJoaXN0b3J5IjpbMTA0Nzg2NzM4MCwtMTI1NTIwMjIzNCwtMT
+I3NzI0NDI3LC0xODkwNTMwODkzLDI4MjM5OTYxNSwyMDIxNzUy
+OTgwLDcyMDIwNTM4MSwtMTgxMzIyMTUwOCwxMTY4ODQ5ODQ3LD
+E2NzU5MzcwMjEsLTIwMjMzNDEzNzUsMjA3Mjg0MzkzMiwtMTc2
+NDg0MTA3OCwtMTU5NDg2MzQ1MywxNTU5ODUzNDEyLDEzNTk5Mz
+gzMDEsNzY1MjA0ODg3LC0xMDM2NjgzOTQxXX0=
 -->
