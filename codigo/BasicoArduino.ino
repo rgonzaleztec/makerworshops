@@ -4,9 +4,10 @@
 
 void setup() {
   // put your setup code here, to run once:
- // Limpiamos los colores que tenga el circuito anteriormente programados
+ //Iniciamos la placa
   CircuitPlayground.begin();
  
+  // Limpiamos los colores que tenga el circuito anteriormente programados
   CircuitPlayground.clearPixels();
 }
 
