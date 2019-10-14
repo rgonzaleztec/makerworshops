@@ -99,7 +99,8 @@ Algunos documentos para ir más adelante en este proceso de aprendizaje. No olvi
 
 ## Taller básico por bloques
 Gracias a la gran cantidad de opciones y facilidades que presenta la placa de Circuit PlayGround Express, se desarrollo una plataforma para Internet con la que podemos programar nuestro circuito. Los que han aprendido Scratch en sus clases de tecnología se sentirán totalmente cómodos programando en este laboratorio.
-Para inicar vamos a cargar la plataforma en un na
+Para inicar vamos a cargar la plataforma en un navegador para Internet, por lo que por favor abran el siguiente enlace (aquí).
+
 
 
 
@@ -121,7 +122,7 @@ Primero entenderemos como funciona el acelerometro de tres ejes, para lo que deb
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MjQ3ODU5NCwtMjc5NTcxNDI3LDUxMT
+eyJoaXN0b3J5IjpbLTM4NDc4NDU4NiwtMjc5NTcxNDI3LDUxMT
 M2MTI3NywyMDAwNTI4MDQzLDExMDQ2MTI3MjAsLTEyNTUyMDIy
 MzQsLTEyNzcyNDQyNywtMTg5MDUzMDg5MywyODIzOTk2MTUsMj
 AyMTc1Mjk4MCw3MjAyMDUzODEsLTE4MTMyMjE1MDgsMTE2ODg0
