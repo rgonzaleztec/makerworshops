@@ -35,8 +35,14 @@ Esta placa aunque parece muy sencilla es bastante poderosa y viene con una canti
  - Luz A5
  - Sonido A4
 
+**Puertos**
+Son 8 puertos los cuales pueden ser utilizados mediante larguitos, soldandolos o hasta tocandolos.
+
+**Ademas**
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3Mjg0MzkzMiwtMTc2NDg0MTA3OCwtMT
-U5NDg2MzQ1MywxNTU5ODUzNDEyLDEzNTk5MzgzMDEsNzY1MjA0
-ODg3LC0xMDM2NjgzOTQxXX0=
+eyJoaXN0b3J5IjpbLTEwMDkxODQ5NTQsMjA3Mjg0MzkzMiwtMT
+c2NDg0MTA3OCwtMTU5NDg2MzQ1MywxNTU5ODUzNDEyLDEzNTk5
+MzgzMDEsNzY1MjA0ODg3LC0xMDM2NjgzOTQxXX0=
 -->
