@@ -41,14 +41,17 @@ Son 8 puertos los cuales pueden ser utilizados mediante larguitos, soldandolos o
 
 **Ademas**
 Tenemos 10 neopixels que pueden ser programados con casi cualquier color en formato RGB(Red,Green,Blue) [Selector de Colores](https://htmlcolorcodes.com/es/selector-de-color/). Dos botones para presionar, uno derecho y uno izquierdo que se puede detectar si están presionados o no.  Boton de switch que se puede combinar con alguna acción. Si quieres realidad un pequeño sonido digital o análogo tienes pequeño parlantito.
-Vamos a trabaj
+Vamos a trabajar un poco nuestros nuevos componentes.
+
+## Taller Básico empezando de cero
+Vamos a interactuar por primera vez con la placa circuit playground, para lo cual debemos tener instalado en nuestro computador lo
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyOTYyNTE5NiwxMTY4ODQ5ODQ3LDE2Nz
-U5MzcwMjEsLTIwMjMzNDEzNzUsMjA3Mjg0MzkzMiwtMTc2NDg0
-MTA3OCwtMTU5NDg2MzQ1MywxNTU5ODUzNDEyLDEzNTk5MzgzMD
-EsNzY1MjA0ODg3LC0xMDM2NjgzOTQxXX0=
+eyJoaXN0b3J5IjpbLTE2MTc3NzU5MTIsMTE2ODg0OTg0NywxNj
+c1OTM3MDIxLC0yMDIzMzQxMzc1LDIwNzI4NDM5MzIsLTE3NjQ4
+NDEwNzgsLTE1OTQ4NjM0NTMsMTU1OTg1MzQxMiwxMzU5OTM4Mz
+AxLDc2NTIwNDg4NywtMTAzNjY4Mzk0MV19
 -->
