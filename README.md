@@ -64,12 +64,13 @@ Se le proporcionarán algunos elementos para que cree su lámpara, tendrá acces
 Antes de tomar los elementos piense, analice y con las respuestas de su compañero cree una lámpara que lo represente. 
 Cuando tenga una primer idea de como la quiere crear empiece a trabajar, considere antes de armar su covertor de lámpara debe crear su circuito y el programa para que funcione.
 ** El circuito**
-Utilizando la plantilla base vamos a aprender a modificarla. Descargue la plantilla del siguiente enlace(aqui).
+Utilizando la plantilla base vamos a aprender a modificarla. Descargue la plantilla del siguiente enlace([aqui](https://github.com/rgonzaleztec/makerworshops/blob/master/codigo/BasicoArduino.ino)).
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NTM3Mjg4NywyODIzOTk2MTUsMjAyMT
-c1Mjk4MCw3MjAyMDUzODEsLTE4MTMyMjE1MDgsMTE2ODg0OTg0
-NywxNjc1OTM3MDIxLC0yMDIzMzQxMzc1LDIwNzI4NDM5MzIsLT
-E3NjQ4NDEwNzgsLTE1OTQ4NjM0NTMsMTU1OTg1MzQxMiwxMzU5
-OTM4MzAxLDc2NTIwNDg4NywtMTAzNjY4Mzk0MV19
+eyJoaXN0b3J5IjpbLTE4OTA1MzA4OTMsMjgyMzk5NjE1LDIwMj
+E3NTI5ODAsNzIwMjA1MzgxLC0xODEzMjIxNTA4LDExNjg4NDk4
+NDcsMTY3NTkzNzAyMSwtMjAyMzM0MTM3NSwyMDcyODQzOTMyLC
+0xNzY0ODQxMDc4LC0xNTk0ODYzNDUzLDE1NTk4NTM0MTIsMTM1
+OTkzODMwMSw3NjUyMDQ4ODcsLTEwMzY2ODM5NDFdfQ==
 -->
