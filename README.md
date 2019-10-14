@@ -34,15 +34,16 @@ Esta placa aunque parece muy sencilla es bastante poderosa y viene con una canti
  - Temperatura A0
  - Luz A5
  - Sonido A4
+ - Sensor de movimiento x,y,z 
 
 **Puertos**
 Son 8 puertos los cuales pueden ser utilizados mediante larguitos, soldandolos o hasta tocandolos.
 
 **Ademas**
-
+Tenemos 10 neopixels que pueden ser 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDkxODQ5NTQsMjA3Mjg0MzkzMiwtMT
-c2NDg0MTA3OCwtMTU5NDg2MzQ1MywxNTU5ODUzNDEyLDEzNTk5
-MzgzMDEsNzY1MjA0ODg3LC0xMDM2NjgzOTQxXX0=
+eyJoaXN0b3J5IjpbMTMyNzU3Mjg1MywyMDcyODQzOTMyLC0xNz
+Y0ODQxMDc4LC0xNTk0ODYzNDUzLDE1NTk4NTM0MTIsMTM1OTkz
+ODMwMSw3NjUyMDQ4ODcsLTEwMzY2ODM5NDFdfQ==
 -->
