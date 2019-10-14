@@ -24,14 +24,10 @@ Esta placa aunque parece muy sencilla es bastante poderosa y viene con una canti
 
 **Sensores**
 
-
-
-
-
-
+ - List item
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAzNDQ0ODM2LC0xNTk0ODYzNDUzLDE1NT
-k4NTM0MTIsMTM1OTkzODMwMSw3NjUyMDQ4ODcsLTEwMzY2ODM5
-NDFdfQ==
+eyJoaXN0b3J5IjpbLTE3NjQ4NDEwNzgsLTE1OTQ4NjM0NTMsMT
+U1OTg1MzQxMiwxMzU5OTM4MzAxLDc2NTIwNDg4NywtMTAzNjY4
+Mzk0MV19
 -->
