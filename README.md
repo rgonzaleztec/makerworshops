@@ -46,7 +46,8 @@ Vamos a trabajar un poco nuestros nuevos componentes.
 [Imagen etiquetada del circuito](https://github.com/rgonzaleztec/makerworshops/blob/master/images/classic-labeled.jpg)
 
 ## Taller Básico empezando de cero
-**Tiempo requerido total 
+**Tiempo requerido total 10minutos**
+
 Vamos a interactuar por primera vez con la placa circuit playground, para lo cual debemos tener instalado en nuestro computador el siguiente software:
 
  - [Arduino Studio](https://www.arduino.cc/en/Main/Software) (versión reciente)
@@ -55,6 +56,8 @@ Vamos a interactuar por primera vez con la placa circuit playground, para lo cua
 Verificar que el software antes indicado este instalado en su computador. Para ellos vamos a ejecutar el Arduino Studio y cargaremos el ejemplo de demo que trae la placa al instalarse. Ver la siguiente imagen.
 ![Demo](https://github.com/rgonzaleztec/makerworshops/blob/master/images/EjemploDemoCPG.png)
 ## Taller Creativo y si creamos una lámpara
+**Tiempo requerido total 65minutos**
+
 Tenemos un problema cada uno de los estudiantes de la clase a perdido su lámpara mágica, en este taller usted tendrá como reto crearle a un compañero. Para esto deberás buscar en el grupo un compañero sin lámpara y le preguntaras:
 
  1. Cuáles son almenos tres de tus colores preferidos?
@@ -69,10 +72,10 @@ Utilizando la plantilla base vamos a aprender a modificarla. Descargue la planti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNjY3MTg4OCwtMTg5MDUzMDg5MywyOD
-IzOTk2MTUsMjAyMTc1Mjk4MCw3MjAyMDUzODEsLTE4MTMyMjE1
-MDgsMTE2ODg0OTg0NywxNjc1OTM3MDIxLC0yMDIzMzQxMzc1LD
-IwNzI4NDM5MzIsLTE3NjQ4NDEwNzgsLTE1OTQ4NjM0NTMsMTU1
-OTg1MzQxMiwxMzU5OTM4MzAxLDc2NTIwNDg4NywtMTAzNjY4Mz
-k0MV19
+eyJoaXN0b3J5IjpbLTEwNzYxODQwNjQsLTE4OTA1MzA4OTMsMj
+gyMzk5NjE1LDIwMjE3NTI5ODAsNzIwMjA1MzgxLC0xODEzMjIx
+NTA4LDExNjg4NDk4NDcsMTY3NTkzNzAyMSwtMjAyMzM0MTM3NS
+wyMDcyODQzOTMyLC0xNzY0ODQxMDc4LC0xNTk0ODYzNDUzLDE1
+NTk4NTM0MTIsMTM1OTkzODMwMSw3NjUyMDQ4ODcsLTEwMzY2OD
+M5NDFdfQ==
 -->
