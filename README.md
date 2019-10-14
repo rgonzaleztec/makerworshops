@@ -33,10 +33,10 @@ Esta placa aunque parece muy sencilla es bastante poderosa y viene con una canti
 
  - Temperatura A0
  - Luz A5
- - 
+ - Sonido A4
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NDM5MDQzNSwtMTc2NDg0MTA3OCwtMT
+eyJoaXN0b3J5IjpbMjA3Mjg0MzkzMiwtMTc2NDg0MTA3OCwtMT
 U5NDg2MzQ1MywxNTU5ODUzNDEyLDEzNTk5MzgzMDEsNzY1MjA0
 ODg3LC0xMDM2NjgzOTQxXX0=
 -->
