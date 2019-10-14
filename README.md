@@ -52,12 +52,13 @@ Vamos a interactuar por primera vez con la placa circuit playground, para lo cua
  - [Controladores de CPG para Windows](https://github.com/adafruit/Adafruit_Windows_Drivers/releases/tag/2.4.0.0)
 
 Verificar que el software antes indicado este instalado en su computador. Para ellos vamos a ejecutar el Arduino Studio y cargaremos el ejemplo de demo que trae la placa al instalarse. Ver la siguiente imagen.
+![Demo](https://github.com/rgonzaleztec/makerworshops/blob/master/images/EjemploDemoCPG.png)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTQ5MTg0ODAsNzIwMjA1MzgxLC0xOD
-EzMjIxNTA4LDExNjg4NDk4NDcsMTY3NTkzNzAyMSwtMjAyMzM0
-MTM3NSwyMDcyODQzOTMyLC0xNzY0ODQxMDc4LC0xNTk0ODYzND
-UzLDE1NTk4NTM0MTIsMTM1OTkzODMwMSw3NjUyMDQ4ODcsLTEw
-MzY2ODM5NDFdfQ==
+eyJoaXN0b3J5IjpbMjAyMTc1Mjk4MCw3MjAyMDUzODEsLTE4MT
+MyMjE1MDgsMTE2ODg0OTg0NywxNjc1OTM3MDIxLC0yMDIzMzQx
+Mzc1LDIwNzI4NDM5MzIsLTE3NjQ4NDEwNzgsLTE1OTQ4NjM0NT
+MsMTU1OTg1MzQxMiwxMzU5OTM4MzAxLDc2NTIwNDg4NywtMTAz
+NjY4Mzk0MV19
 -->
