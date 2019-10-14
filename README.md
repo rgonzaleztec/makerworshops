@@ -98,7 +98,9 @@ Algunos documentos para ir más adelante en este proceso de aprendizaje. No olvi
  - [Guía de Circuit Playground](https://github.com/rgonzaleztec/makerworshops/blob/master/documentos/introducing-circuit-playground.pdf)
 
 ## Taller creativo intermedio
-En este 
+En este taller vamos a trabajar con los actuadores y otros sensores que la placa nos facilita para hacer nuestra creatividad volar.
+Primero entenderemos como funciona el acelerometro de tres ejes, para lo que debe cargar el ejemplo como se muestra en la siguiente imagen.
+
 
 
 
@@ -112,11 +114,11 @@ En este
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODQ3Mzg5NDQsMjAwMDUyODA0MywxMT
-A0NjEyNzIwLC0xMjU1MjAyMjM0LC0xMjc3MjQ0MjcsLTE4OTA1
-MzA4OTMsMjgyMzk5NjE1LDIwMjE3NTI5ODAsNzIwMjA1MzgxLC
-0xODEzMjIxNTA4LDExNjg4NDk4NDcsMTY3NTkzNzAyMSwtMjAy
-MzM0MTM3NSwyMDcyODQzOTMyLC0xNzY0ODQxMDc4LC0xNTk0OD
-YzNDUzLDE1NTk4NTM0MTIsMTM1OTkzODMwMSw3NjUyMDQ4ODcs
-LTEwMzY2ODM5NDFdfQ==
+eyJoaXN0b3J5IjpbNTExMzYxMjc3LDIwMDA1MjgwNDMsMTEwND
+YxMjcyMCwtMTI1NTIwMjIzNCwtMTI3NzI0NDI3LC0xODkwNTMw
+ODkzLDI4MjM5OTYxNSwyMDIxNzUyOTgwLDcyMDIwNTM4MSwtMT
+gxMzIyMTUwOCwxMTY4ODQ5ODQ3LDE2NzU5MzcwMjEsLTIwMjMz
+NDEzNzUsMjA3Mjg0MzkzMiwtMTc2NDg0MTA3OCwtMTU5NDg2Mz
+Q1MywxNTU5ODUzNDEyLDEzNTk5MzgzMDEsNzY1MjA0ODg3LC0x
+MDM2NjgzOTQxXX0=
 -->
