@@ -93,8 +93,10 @@ Ahora que ya saben como programar un color y cambiarlo con un boton, **Cómo pod
 
 Vamos a probar otro código que les puede ayudar con su proyecto descargar el siguiente código ([aquí](https://github.com/rgonzaleztec/makerworshops/blob/master/codigo/BasicoArduino2.ino)). 
 Algunos documentos para ir más adelante en este proceso de aprendizaje. No olviden que pueden preguntar a los instructores como agregar alguna idea más. 
-Guía de Circuit Playground Express
-Guía de Circuit Playground
+[Guía de Circuit Playground Express](https://github.com/rgonzaleztec/makerworshops/blob/master/documentos/adafruit-circuit-playground-express.pdf)
+[Guía de Circuit Playground](https://github.com/rgonzaleztec/makerworshops/blob/master/documentos/introducing-circuit-playground.pdf)
+
+
 
 
     
@@ -103,10 +105,11 @@ Guía de Circuit Playground
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNDYxMjcyMCwtMTI1NTIwMjIzNCwtMT
-I3NzI0NDI3LC0xODkwNTMwODkzLDI4MjM5OTYxNSwyMDIxNzUy
-OTgwLDcyMDIwNTM4MSwtMTgxMzIyMTUwOCwxMTY4ODQ5ODQ3LD
-E2NzU5MzcwMjEsLTIwMjMzNDEzNzUsMjA3Mjg0MzkzMiwtMTc2
-NDg0MTA3OCwtMTU5NDg2MzQ1MywxNTU5ODUzNDEyLDEzNTk5Mz
-gzMDEsNzY1MjA0ODg3LC0xMDM2NjgzOTQxXX0=
+eyJoaXN0b3J5IjpbMjAwMDUyODA0MywxMTA0NjEyNzIwLC0xMj
+U1MjAyMjM0LC0xMjc3MjQ0MjcsLTE4OTA1MzA4OTMsMjgyMzk5
+NjE1LDIwMjE3NTI5ODAsNzIwMjA1MzgxLC0xODEzMjIxNTA4LD
+ExNjg4NDk4NDcsMTY3NTkzNzAyMSwtMjAyMzM0MTM3NSwyMDcy
+ODQzOTMyLC0xNzY0ODQxMDc4LC0xNTk0ODYzNDUzLDE1NTk4NT
+M0MTIsMTM1OTkzODMwMSw3NjUyMDQ4ODcsLTEwMzY2ODM5NDFd
+fQ==
 -->
