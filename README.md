@@ -54,13 +54,14 @@ Vamos a interactuar por primera vez con la placa circuit playground, para lo cua
 Verificar que el software antes indicado este instalado en su computador. Para ellos vamos a ejecutar el Arduino Studio y cargaremos el ejemplo de demo que trae la placa al instalarse. Ver la siguiente imagen.
 ![Demo](https://github.com/rgonzaleztec/makerworshops/blob/master/images/EjemploDemoCPG.png)
 ## Taller Creativo y si creamos una lámpara
-Tenemos un problema cada uno de los estudiantes de la clase a perdido su lámpara mágica, en este taller usted tendrá como reto crearle a un compañero 
+Tenemos un problema cada uno de los estudiantes de la clase a perdido su lámpara mágica, en este taller usted tendrá como reto crearle a un compañero. Para esto deberás buscar en el grupo un compañero sin lámpara y le preguntaras:
 
+ 1. Cuáles son almenos tres de tus colores pre
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgyMzk5NjE1LDIwMjE3NTI5ODAsNzIwMj
-A1MzgxLC0xODEzMjIxNTA4LDExNjg4NDk4NDcsMTY3NTkzNzAy
-MSwtMjAyMzM0MTM3NSwyMDcyODQzOTMyLC0xNzY0ODQxMDc4LC
-0xNTk0ODYzNDUzLDE1NTk4NTM0MTIsMTM1OTkzODMwMSw3NjUy
-MDQ4ODcsLTEwMzY2ODM5NDFdfQ==
+eyJoaXN0b3J5IjpbLTYwMzM3NDYyOSwyODIzOTk2MTUsMjAyMT
+c1Mjk4MCw3MjAyMDUzODEsLTE4MTMyMjE1MDgsMTE2ODg0OTg0
+NywxNjc1OTM3MDIxLC0yMDIzMzQxMzc1LDIwNzI4NDM5MzIsLT
+E3NjQ4NDEwNzgsLTE1OTQ4NjM0NTMsMTU1OTg1MzQxMiwxMzU5
+OTM4MzAxLDc2NTIwNDg4NywtMTAzNjY4Mzk0MV19
 -->
