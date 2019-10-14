@@ -26,10 +26,11 @@ Esta placa aunque parece muy sencilla es bastante poderosa y viene con una canti
 
  - Python
  - C (arduino)
- - C++
+ - C++ (arduino)
+ - MakerCode
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjg2MTIwOCwtMTc2NDg0MTA3OCwtMT
+eyJoaXN0b3J5IjpbMTkxODg2NDAxNSwtMTc2NDg0MTA3OCwtMT
 U5NDg2MzQ1MywxNTU5ODUzNDEyLDEzNTk5MzgzMDEsNzY1MjA0
 ODg3LC0xMDM2NjgzOTQxXX0=
 -->
