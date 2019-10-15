@@ -51,7 +51,8 @@ Para inicar vamos a cargar la plataforma en un navegador para Internet, por lo q
 
  1. Intentar prender un neopixel
  2. Utilizar sensor de luz para emitir sonido
- 3. 
+ 3. Encender leds de color azul, amarillo o rojo según temperatura
+ 4. 
 
 
 
@@ -132,11 +133,11 @@ Primero entenderemos como funciona el acelerometro de tres ejes, para lo que deb
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwOTA1ODg0LC0xNDYwNDkxMzgzLDE1OT
-A5MjMxODQsLTE4NTgxODY0MDksLTM4NDc4NDU4NiwtMjc5NTcx
-NDI3LDUxMTM2MTI3NywyMDAwNTI4MDQzLDExMDQ2MTI3MjAsLT
-EyNTUyMDIyMzQsLTEyNzcyNDQyNywtMTg5MDUzMDg5MywyODIz
-OTk2MTUsMjAyMTc1Mjk4MCw3MjAyMDUzODEsLTE4MTMyMjE1MD
-gsMTE2ODg0OTg0NywxNjc1OTM3MDIxLC0yMDIzMzQxMzc1LDIw
-NzI4NDM5MzJdfQ==
+eyJoaXN0b3J5IjpbMTk0Mjk0Nzc1NSwtMTQ2MDQ5MTM4MywxNT
+kwOTIzMTg0LC0xODU4MTg2NDA5LC0zODQ3ODQ1ODYsLTI3OTU3
+MTQyNyw1MTEzNjEyNzcsMjAwMDUyODA0MywxMTA0NjEyNzIwLC
+0xMjU1MjAyMjM0LC0xMjc3MjQ0MjcsLTE4OTA1MzA4OTMsMjgy
+Mzk5NjE1LDIwMjE3NTI5ODAsNzIwMjA1MzgxLC0xODEzMjIxNT
+A4LDExNjg4NDk4NDcsMTY3NTkzNzAyMSwtMjAyMzM0MTM3NSwy
+MDcyODQzOTMyXX0=
 -->
