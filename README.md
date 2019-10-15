@@ -119,6 +119,7 @@ Algunos documentos para ir más adelante en este proceso de aprendizaje. No olvi
 En este taller vamos a trabajar con los actuadores y otros sensores que la placa nos facilita para hacer nuestra creatividad volar.
 Primero entenderemos como funciona el acelerometro de tres ejes, para lo que debe cargar el ejemplo como se muestra en la siguiente imagen.
 ![Acelerometro Ejemplo](https://github.com/rgonzaleztec/makerworshops/blob/master/images/EjemploAcelerometro.png)
+Utilizar makecode para realizar esta tarea.
 
 
 
@@ -133,11 +134,11 @@ Primero entenderemos como funciona el acelerometro de tres ejes, para lo que deb
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzQyMzY1ODMsLTEyMDgyNDA4MDMsMT
-k0Mjk0Nzc1NSwtMTQ2MDQ5MTM4MywxNTkwOTIzMTg0LC0xODU4
-MTg2NDA5LC0zODQ3ODQ1ODYsLTI3OTU3MTQyNyw1MTEzNjEyNz
-csMjAwMDUyODA0MywxMTA0NjEyNzIwLC0xMjU1MjAyMjM0LC0x
-Mjc3MjQ0MjcsLTE4OTA1MzA4OTMsMjgyMzk5NjE1LDIwMjE3NT
-I5ODAsNzIwMjA1MzgxLC0xODEzMjIxNTA4LDExNjg4NDk4NDcs
-MTY3NTkzNzAyMV19
+eyJoaXN0b3J5IjpbLTc2NzgyMjI1NiwtMjAzNDIzNjU4MywtMT
+IwODI0MDgwMywxOTQyOTQ3NzU1LC0xNDYwNDkxMzgzLDE1OTA5
+MjMxODQsLTE4NTgxODY0MDksLTM4NDc4NDU4NiwtMjc5NTcxND
+I3LDUxMTM2MTI3NywyMDAwNTI4MDQzLDExMDQ2MTI3MjAsLTEy
+NTUyMDIyMzQsLTEyNzcyNDQyNywtMTg5MDUzMDg5MywyODIzOT
+k2MTUsMjAyMTc1Mjk4MCw3MjAyMDUzODEsLTE4MTMyMjE1MDgs
+MTE2ODg0OTg0N119
 -->
