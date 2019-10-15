@@ -75,8 +75,10 @@ Tenemos un problema cada uno de los estudiantes de la clase a perdido su lámpar
  1. Cuáles son almenos tres de tus colores preferidos?
  2. Cuáles son las dos figuras geométricas que más le gustan?
  3. Con cuál nombre le gusta que lo llamen?
+ 4. Cuál sería la seña de encendido de la lámpara?
+ 
 **Trabajo (tiempo requerido 25minutos)**
-Se le proporcionarán algunos elementos para que cree su lámpara, tendrá acceso a papel de construción, paletas, goma, tijeras y otros sorpresa.
+Se le proporcionarán algunos elementos para que cree su lámpara, tendrá acceso a papel de construción, goma, tijeras y otros sorpresa.
 Antes de tomar los elementos piense, analice y con las respuestas de su compañero cree una lámpara que lo represente. 
 Cuando tenga una primer idea de como la quiere crear empiece a trabajar, considere antes de armar su covertor de lámpara debe crear su circuito y el programa para que funcione.
 ** El circuito (tiempo requerido 60minutos)**
@@ -130,11 +132,11 @@ Primero entenderemos como funciona el acelerometro de tres ejes, para lo que deb
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNTMyNDY0MiwtMTIwODI0MDgwMywxOT
-QyOTQ3NzU1LC0xNDYwNDkxMzgzLDE1OTA5MjMxODQsLTE4NTgx
-ODY0MDksLTM4NDc4NDU4NiwtMjc5NTcxNDI3LDUxMTM2MTI3Ny
-wyMDAwNTI4MDQzLDExMDQ2MTI3MjAsLTEyNTUyMDIyMzQsLTEy
-NzcyNDQyNywtMTg5MDUzMDg5MywyODIzOTk2MTUsMjAyMTc1Mj
-k4MCw3MjAyMDUzODEsLTE4MTMyMjE1MDgsMTE2ODg0OTg0Nywx
-Njc1OTM3MDIxXX0=
+eyJoaXN0b3J5IjpbODMzODU4ODczLC0xMjA4MjQwODAzLDE5ND
+I5NDc3NTUsLTE0NjA0OTEzODMsMTU5MDkyMzE4NCwtMTg1ODE4
+NjQwOSwtMzg0Nzg0NTg2LC0yNzk1NzE0MjcsNTExMzYxMjc3LD
+IwMDA1MjgwNDMsMTEwNDYxMjcyMCwtMTI1NTIwMjIzNCwtMTI3
+NzI0NDI3LC0xODkwNTMwODkzLDI4MjM5OTYxNSwyMDIxNzUyOT
+gwLDcyMDIwNTM4MSwtMTgxMzIyMTUwOCwxMTY4ODQ5ODQ3LDE2
+NzU5MzcwMjFdfQ==
 -->
