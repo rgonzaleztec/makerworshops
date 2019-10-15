@@ -57,6 +57,8 @@ Para inicar vamos a cargar la plataforma en un navegador para Internet, por lo q
  5. Graficar valor de temperatura
  6. Probar utilizar los botones para genar sonidos
 
+## RECESO DE 20 MINUTOS
+Tiempo para despejarse
 
 ## Taller Básico empezando de cero
 **Tiempo requerido total 15minutos**
@@ -136,7 +138,7 @@ Vamos a recrear un problema nacional el cual es restringir el paso cuando viene 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzY2NjQ4MzYsLTIwMzQyMzY1ODMsLT
+eyJoaXN0b3J5IjpbLTE1NjY2NTYyMjksLTIwMzQyMzY1ODMsLT
 EyMDgyNDA4MDMsMTk0Mjk0Nzc1NSwtMTQ2MDQ5MTM4MywxNTkw
 OTIzMTg0LC0xODU4MTg2NDA5LC0zODQ3ODQ1ODYsLTI3OTU3MT
 QyNyw1MTEzNjEyNzcsMjAwMDUyODA0MywxMTA0NjEyNzIwLC0x
