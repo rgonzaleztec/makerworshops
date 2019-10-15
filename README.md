@@ -80,7 +80,7 @@ Tenemos un problema cada uno de los estudiantes de la clase a perdido su lámpar
 **Trabajo (tiempo requerido 25minutos)**
 Se le proporcionarán algunos elementos para que cree su lámpara, tendrá acceso a papel de construción, goma, tijeras y otros sorpresa.
 Antes de tomar los elementos piense, analice y con las respuestas de su compañero cree una lámpara que lo represente. 
-Cuando tenga una primer idea de como la quiere crear empiece a trabajar, considere antes de armar su covertor de lámpara debe crear su circuito y el programa para que funcione.
+Cuando tenga una primer idea de como la quiere crear empiece a trabajar, considere antes de armar su covertor de lámpara que debe crear su circuito y el programa para que funcione, por lo que la prioridad no es solo e
 ** El circuito (tiempo requerido 60minutos)**
 Utilizando la plantilla base vamos a aprender a modificarla. Descargue la plantilla del siguiente enlace([aqui](https://github.com/rgonzaleztec/makerworshops/blob/master/codigo/BasicoArduino.ino)).
 
@@ -132,11 +132,11 @@ Primero entenderemos como funciona el acelerometro de tres ejes, para lo que deb
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMzODU4ODczLC0xMjA4MjQwODAzLDE5ND
-I5NDc3NTUsLTE0NjA0OTEzODMsMTU5MDkyMzE4NCwtMTg1ODE4
-NjQwOSwtMzg0Nzg0NTg2LC0yNzk1NzE0MjcsNTExMzYxMjc3LD
-IwMDA1MjgwNDMsMTEwNDYxMjcyMCwtMTI1NTIwMjIzNCwtMTI3
-NzI0NDI3LC0xODkwNTMwODkzLDI4MjM5OTYxNSwyMDIxNzUyOT
-gwLDcyMDIwNTM4MSwtMTgxMzIyMTUwOCwxMTY4ODQ5ODQ3LDE2
-NzU5MzcwMjFdfQ==
+eyJoaXN0b3J5IjpbLTE0MzkzNjQwMTEsLTEyMDgyNDA4MDMsMT
+k0Mjk0Nzc1NSwtMTQ2MDQ5MTM4MywxNTkwOTIzMTg0LC0xODU4
+MTg2NDA5LC0zODQ3ODQ1ODYsLTI3OTU3MTQyNyw1MTEzNjEyNz
+csMjAwMDUyODA0MywxMTA0NjEyNzIwLC0xMjU1MjAyMjM0LC0x
+Mjc3MjQ0MjcsLTE4OTA1MzA4OTMsMjgyMzk5NjE1LDIwMjE3NT
+I5ODAsNzIwMjA1MzgxLC0xODEzMjIxNTA4LDExNjg4NDk4NDcs
+MTY3NTkzNzAyMV19
 -->
