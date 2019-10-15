@@ -46,6 +46,7 @@ Vamos a trabajar un poco nuestros nuevos componentes.
 [Imagen etiquetada del circuito](https://github.com/rgonzaleztec/makerworshops/blob/master/images/classic-labeled.jpg)
 
 ## Taller básico por bloques
+**Tiempo requerido total 30minutos**
 Gracias a la gran cantidad de opciones y facilidades que presenta la placa de Circuit PlayGround Express, se desarrollo una plataforma para Internet con la que podemos programar nuestro circuito. Los que han aprendido Scratch en sus clases de tecnología se sentirán totalmente cómodos programando en este laboratorio.
 Para inicar vamos a cargar la plataforma en un navegador para Internet, por lo que por favor abran el siguiente enlace ([aquí](https://makecode.adafruit.com/#editor)).
 
@@ -116,6 +117,7 @@ Algunos documentos para ir más adelante en este proceso de aprendizaje. No olvi
 
 
 ## Taller creativo intermedio
+**Tiempo requerido total 35 minutos**
 En este taller vamos a trabajar con los actuadores y otros sensores que la placa nos facilita para hacer nuestra creatividad volar.
 Primero entenderemos como funciona el acelerometro de tres ejes, para lo que debe cargar el ejemplo como se muestra en la siguiente imagen.
 ![Acelerometro Ejemplo](https://github.com/rgonzaleztec/makerworshops/blob/master/images/EjemploAcelerometro.png)
@@ -127,17 +129,18 @@ Vamos a recrear un problema nacional el cual es restringir el paso cuando viene 
  - La aguaja permanece  por 5 segundos como mínimo abajo mientras pasa el tren y se sube automáticamente
  - Deben crear una estación de paperl donde montar el microcontrolador que permita detectar el movimiento
 
+
     
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM2NzQ0NjMzLC0yMDM0MjM2NTgzLC0xMj
-A4MjQwODAzLDE5NDI5NDc3NTUsLTE0NjA0OTEzODMsMTU5MDky
-MzE4NCwtMTg1ODE4NjQwOSwtMzg0Nzg0NTg2LC0yNzk1NzE0Mj
-csNTExMzYxMjc3LDIwMDA1MjgwNDMsMTEwNDYxMjcyMCwtMTI1
-NTIwMjIzNCwtMTI3NzI0NDI3LC0xODkwNTMwODkzLDI4MjM5OT
-YxNSwyMDIxNzUyOTgwLDcyMDIwNTM4MSwtMTgxMzIyMTUwOCwx
-MTY4ODQ5ODQ3XX0=
+eyJoaXN0b3J5IjpbLTEzMzY2NjQ4MzYsLTIwMzQyMzY1ODMsLT
+EyMDgyNDA4MDMsMTk0Mjk0Nzc1NSwtMTQ2MDQ5MTM4MywxNTkw
+OTIzMTg0LC0xODU4MTg2NDA5LC0zODQ3ODQ1ODYsLTI3OTU3MT
+QyNyw1MTEzNjEyNzcsMjAwMDUyODA0MywxMTA0NjEyNzIwLC0x
+MjU1MjAyMjM0LC0xMjc3MjQ0MjcsLTE4OTA1MzA4OTMsMjgyMz
+k5NjE1LDIwMjE3NTI5ODAsNzIwMjA1MzgxLC0xODEzMjIxNTA4
+LDExNjg4NDk4NDddfQ==
 -->
