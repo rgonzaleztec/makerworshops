@@ -100,13 +100,8 @@ Algunos documentos para ir más adelante en este proceso de aprendizaje. No olvi
 **Espacio de 30 minutos para que presenten los resultados de sus lámparas**
 
 
-## Taller básico por bloques
-Gracias a la gran cantidad de opciones y facilidades que presenta la placa de Circuit PlayGround Express, se desarrollo una plataforma para Internet con la que podemos programar nuestro circuito. Los que han aprendido Scratch en sus clases de tecnología se sentirán totalmente cómodos programando en este laboratorio.
-Para inicar vamos a cargar la plataforma en un navegador para Internet, por lo que por favor abran el siguiente enlace ([aquí](https://makecode.adafruit.com/#editor)).
 
- 1. Intentar prender un neopixel
- 2. Emitir un sonido si no hay luz
- 3. 
+
 
 ## Taller creativo intermedio
 En este taller vamos a trabajar con los actuadores y otros sensores que la placa nos facilita para hacer nuestra creatividad volar.
@@ -126,11 +121,11 @@ Primero entenderemos como funciona el acelerometro de tres ejes, para lo que deb
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjA0OTEzODMsMTU5MDkyMzE4NCwtMT
-g1ODE4NjQwOSwtMzg0Nzg0NTg2LC0yNzk1NzE0MjcsNTExMzYx
-Mjc3LDIwMDA1MjgwNDMsMTEwNDYxMjcyMCwtMTI1NTIwMjIzNC
-wtMTI3NzI0NDI3LC0xODkwNTMwODkzLDI4MjM5OTYxNSwyMDIx
-NzUyOTgwLDcyMDIwNTM4MSwtMTgxMzIyMTUwOCwxMTY4ODQ5OD
-Q3LDE2NzU5MzcwMjEsLTIwMjMzNDEzNzUsMjA3Mjg0MzkzMiwt
-MTc2NDg0MTA3OF19
+eyJoaXN0b3J5IjpbMjEwNTgyMDg2NCwtMTQ2MDQ5MTM4MywxNT
+kwOTIzMTg0LC0xODU4MTg2NDA5LC0zODQ3ODQ1ODYsLTI3OTU3
+MTQyNyw1MTEzNjEyNzcsMjAwMDUyODA0MywxMTA0NjEyNzIwLC
+0xMjU1MjAyMjM0LC0xMjc3MjQ0MjcsLTE4OTA1MzA4OTMsMjgy
+Mzk5NjE1LDIwMjE3NTI5ODAsNzIwMjA1MzgxLC0xODEzMjIxNT
+A4LDExNjg4NDk4NDcsMTY3NTkzNzAyMSwtMjAyMzM0MTM3NSwy
+MDcyODQzOTMyXX0=
 -->
