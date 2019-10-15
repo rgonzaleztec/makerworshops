@@ -57,8 +57,6 @@ Para inicar vamos a cargar la plataforma en un navegador para Internet, por lo q
  6. Probar utilizar los botones para genar sonidos
 
 
-
-
 ## Taller Básico empezando de cero
 **Tiempo requerido total 15minutos**
 
@@ -132,11 +130,11 @@ Primero entenderemos como funciona el acelerometro de tres ejes, para lo que deb
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU5NjY0MTI2LC0xMjA4MjQwODAzLDE5ND
-I5NDc3NTUsLTE0NjA0OTEzODMsMTU5MDkyMzE4NCwtMTg1ODE4
-NjQwOSwtMzg0Nzg0NTg2LC0yNzk1NzE0MjcsNTExMzYxMjc3LD
-IwMDA1MjgwNDMsMTEwNDYxMjcyMCwtMTI1NTIwMjIzNCwtMTI3
-NzI0NDI3LC0xODkwNTMwODkzLDI4MjM5OTYxNSwyMDIxNzUyOT
-gwLDcyMDIwNTM4MSwtMTgxMzIyMTUwOCwxMTY4ODQ5ODQ3LDE2
-NzU5MzcwMjFdfQ==
+eyJoaXN0b3J5IjpbLTQwMzUyMTQ0NiwtMTIwODI0MDgwMywxOT
+QyOTQ3NzU1LC0xNDYwNDkxMzgzLDE1OTA5MjMxODQsLTE4NTgx
+ODY0MDksLTM4NDc4NDU4NiwtMjc5NTcxNDI3LDUxMTM2MTI3Ny
+wyMDAwNTI4MDQzLDExMDQ2MTI3MjAsLTEyNTUyMDIyMzQsLTEy
+NzcyNDQyNywtMTg5MDUzMDg5MywyODIzOTk2MTUsMjAyMTc1Mj
+k4MCw3MjAyMDUzODEsLTE4MTMyMjE1MDgsMTE2ODg0OTg0Nywx
+Njc1OTM3MDIxXX0=
 -->
