@@ -120,6 +120,8 @@ Algunos documentos para ir más adelante en este proceso de aprendizaje. No olvi
 
 ## Taller creativo intermedio
 **Tiempo requerido total 40 minutos**
+Este trabajo se puede desarrollar en equipo.
+
 En este taller vamos a trabajar con los actuadores y otros sensores que la placa nos facilita para hacer nuestra creatividad volar.
 Primero entenderemos como funciona el acelerometro de tres ejes, para lo que debe cargar el ejemplo como se muestra en la siguiente imagen.
 ![Acelerometro Ejemplo](https://github.com/rgonzaleztec/makerworshops/blob/master/images/EjemploAcelerometro.png)
@@ -132,12 +134,14 @@ Vamos a recrear un problema nacional el cual es restringir el paso cuando viene 
  - Deben crear una estación de paperl donde montar el microcontrolador que permita detectar el movimiento
 
 **Espacio de 30 minutos para que presenten los resultados**
+
+## Taller 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NDg5NDc2NywtMjAzNDIzNjU4MywtMT
-IwODI0MDgwMywxOTQyOTQ3NzU1LC0xNDYwNDkxMzgzLDE1OTA5
-MjMxODQsLTE4NTgxODY0MDksLTM4NDc4NDU4NiwtMjc5NTcxND
-I3LDUxMTM2MTI3NywyMDAwNTI4MDQzLDExMDQ2MTI3MjAsLTEy
-NTUyMDIyMzQsLTEyNzcyNDQyNywtMTg5MDUzMDg5MywyODIzOT
-k2MTUsMjAyMTc1Mjk4MCw3MjAyMDUzODEsLTE4MTMyMjE1MDgs
-MTE2ODg0OTg0N119
+eyJoaXN0b3J5IjpbNDY2MTM3MjUxLDE2ODQ4OTQ3NjcsLTIwMz
+QyMzY1ODMsLTEyMDgyNDA4MDMsMTk0Mjk0Nzc1NSwtMTQ2MDQ5
+MTM4MywxNTkwOTIzMTg0LC0xODU4MTg2NDA5LC0zODQ3ODQ1OD
+YsLTI3OTU3MTQyNyw1MTEzNjEyNzcsMjAwMDUyODA0MywxMTA0
+NjEyNzIwLC0xMjU1MjAyMjM0LC0xMjc3MjQ0MjcsLTE4OTA1Mz
+A4OTMsMjgyMzk5NjE1LDIwMjE3NTI5ODAsNzIwMjA1MzgxLC0x
+ODEzMjIxNTA4XX0=
 -->
