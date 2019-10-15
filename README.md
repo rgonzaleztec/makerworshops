@@ -53,7 +53,8 @@ Para inicar vamos a cargar la plataforma en un navegador para Internet, por lo q
  2. Utilizar sensor de luz para emitir sonido
  3. Encender leds de color azul, amarillo o rojo según temperatura
  4. Generar sonidos según el movimiento del sensor
- 5. 
+ 5. Graficar valor de temperatura
+ 6. 
 
 
 
@@ -134,11 +135,11 @@ Primero entenderemos como funciona el acelerometro de tres ejes, para lo que deb
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDgyNDA4MDMsMTk0Mjk0Nzc1NSwtMT
-Q2MDQ5MTM4MywxNTkwOTIzMTg0LC0xODU4MTg2NDA5LC0zODQ3
-ODQ1ODYsLTI3OTU3MTQyNyw1MTEzNjEyNzcsMjAwMDUyODA0My
-wxMTA0NjEyNzIwLC0xMjU1MjAyMjM0LC0xMjc3MjQ0MjcsLTE4
-OTA1MzA4OTMsMjgyMzk5NjE1LDIwMjE3NTI5ODAsNzIwMjA1Mz
-gxLC0xODEzMjIxNTA4LDExNjg4NDk4NDcsMTY3NTkzNzAyMSwt
-MjAyMzM0MTM3NV19
+eyJoaXN0b3J5IjpbLTE0MDMwODUyODMsLTEyMDgyNDA4MDMsMT
+k0Mjk0Nzc1NSwtMTQ2MDQ5MTM4MywxNTkwOTIzMTg0LC0xODU4
+MTg2NDA5LC0zODQ3ODQ1ODYsLTI3OTU3MTQyNyw1MTEzNjEyNz
+csMjAwMDUyODA0MywxMTA0NjEyNzIwLC0xMjU1MjAyMjM0LC0x
+Mjc3MjQ0MjcsLTE4OTA1MzA4OTMsMjgyMzk5NjE1LDIwMjE3NT
+I5ODAsNzIwMjA1MzgxLC0xODEzMjIxNTA4LDExNjg4NDk4NDcs
+MTY3NTkzNzAyMV19
 -->
