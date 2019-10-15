@@ -124,7 +124,7 @@ Vamos a recrear un problema nacional el cual es restringir el paso cuando viene 
 
  - Aguja que sube o baja presionando un botón(utilziando el servo)
  - Indicador visual con colores que indique si el paso esta cerrado o no
- - 
+ - La aguaja permanece 
 
     
 
@@ -132,7 +132,7 @@ Vamos a recrear un problema nacional el cual es restringir el paso cuando viene 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMDc5NjU4NywtMjAzNDIzNjU4MywtMT
+eyJoaXN0b3J5IjpbLTk0NTkzOTAyMSwtMjAzNDIzNjU4MywtMT
 IwODI0MDgwMywxOTQyOTQ3NzU1LC0xNDYwNDkxMzgzLDE1OTA5
 MjMxODQsLTE4NTgxODY0MDksLTM4NDc4NDU4NiwtMjc5NTcxND
 I3LDUxMTM2MTI3NywyMDAwNTI4MDQzLDExMDQ2MTI3MjAsLTEy
