@@ -122,9 +122,10 @@ Primero entenderemos como funciona el acelerometro de tres ejes, para lo que deb
 Utilizar makecode para realizar esta tarea.
 Vamos a recrear un problema nacional el cual es restringir el paso cuando viene el tren. Para ello deberan crear su propia estación de aguja para el tren, que deberá tener almenos los siguiente elementos:
 
- - Aguja que sube o baja presionando un botón(utilziando el servo)
+ - Aguja baja al sentir la vibración del tren que se aproxima (utilizando el servo)
  - Indicador visual con colores que indique si el paso esta cerrado o no
- - La aguaja permanece 
+ - La aguaja permanece  por 5 segundos como mínimo abajo mientras pasa el tren y se sube automáticamente
+ - 
 
     
 
@@ -132,11 +133,11 @@ Vamos a recrear un problema nacional el cual es restringir el paso cuando viene 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NTkzOTAyMSwtMjAzNDIzNjU4MywtMT
-IwODI0MDgwMywxOTQyOTQ3NzU1LC0xNDYwNDkxMzgzLDE1OTA5
-MjMxODQsLTE4NTgxODY0MDksLTM4NDc4NDU4NiwtMjc5NTcxND
-I3LDUxMTM2MTI3NywyMDAwNTI4MDQzLDExMDQ2MTI3MjAsLTEy
-NTUyMDIyMzQsLTEyNzcyNDQyNywtMTg5MDUzMDg5MywyODIzOT
-k2MTUsMjAyMTc1Mjk4MCw3MjAyMDUzODEsLTE4MTMyMjE1MDgs
-MTE2ODg0OTg0N119
+eyJoaXN0b3J5IjpbLTE1NjY2OTY1MDMsLTIwMzQyMzY1ODMsLT
+EyMDgyNDA4MDMsMTk0Mjk0Nzc1NSwtMTQ2MDQ5MTM4MywxNTkw
+OTIzMTg0LC0xODU4MTg2NDA5LC0zODQ3ODQ1ODYsLTI3OTU3MT
+QyNyw1MTEzNjEyNzcsMjAwMDUyODA0MywxMTA0NjEyNzIwLC0x
+MjU1MjAyMjM0LC0xMjc3MjQ0MjcsLTE4OTA1MzA4OTMsMjgyMz
+k5NjE1LDIwMjE3NTI5ODAsNzIwMjA1MzgxLC0xODEzMjIxNTA4
+LDExNjg4NDk4NDddfQ==
 -->
