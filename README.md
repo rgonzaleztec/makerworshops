@@ -54,13 +54,13 @@ Para inicar vamos a cargar la plataforma en un navegador para Internet, por lo q
  3. Encender leds de color azul, amarillo o rojo según temperatura
  4. Generar sonidos según el movimiento del sensor
  5. Graficar valor de temperatura
- 6. 
+ 6. Probar utilizar los botones para genar sonidos
 
 
 
 
 ## Taller Básico empezando de cero
-**Tiempo requerido total 10minutos**
+**Tiempo requerido total 15minutos**
 
 Vamos a interactuar por primera vez con la placa circuit playground, para lo cual debemos tener instalado en nuestro computador el siguiente software:
 
@@ -114,9 +114,6 @@ Algunos documentos para ir más adelante en este proceso de aprendizaje. No olvi
 **Espacio de 30 minutos para que presenten los resultados de sus lámparas**
 
 
-
-
-
 ## Taller creativo intermedio
 En este taller vamos a trabajar con los actuadores y otros sensores que la placa nos facilita para hacer nuestra creatividad volar.
 Primero entenderemos como funciona el acelerometro de tres ejes, para lo que debe cargar el ejemplo como se muestra en la siguiente imagen.
@@ -135,11 +132,11 @@ Primero entenderemos como funciona el acelerometro de tres ejes, para lo que deb
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDMwODUyODMsLTEyMDgyNDA4MDMsMT
-k0Mjk0Nzc1NSwtMTQ2MDQ5MTM4MywxNTkwOTIzMTg0LC0xODU4
-MTg2NDA5LC0zODQ3ODQ1ODYsLTI3OTU3MTQyNyw1MTEzNjEyNz
-csMjAwMDUyODA0MywxMTA0NjEyNzIwLC0xMjU1MjAyMjM0LC0x
-Mjc3MjQ0MjcsLTE4OTA1MzA4OTMsMjgyMzk5NjE1LDIwMjE3NT
-I5ODAsNzIwMjA1MzgxLC0xODEzMjIxNTA4LDExNjg4NDk4NDcs
-MTY3NTkzNzAyMV19
+eyJoaXN0b3J5IjpbODU5NjY0MTI2LC0xMjA4MjQwODAzLDE5ND
+I5NDc3NTUsLTE0NjA0OTEzODMsMTU5MDkyMzE4NCwtMTg1ODE4
+NjQwOSwtMzg0Nzg0NTg2LC0yNzk1NzE0MjcsNTExMzYxMjc3LD
+IwMDA1MjgwNDMsMTEwNDYxMjcyMCwtMTI1NTIwMjIzNCwtMTI3
+NzI0NDI3LC0xODkwNTMwODkzLDI4MjM5OTYxNSwyMDIxNzUyOT
+gwLDcyMDIwNTM4MSwtMTgxMzIyMTUwOCwxMTY4ODQ5ODQ3LDE2
+NzU5MzcwMjFdfQ==
 -->
