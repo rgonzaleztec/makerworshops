@@ -136,13 +136,17 @@ Vamos a recrear un problema nacional el cual es restringir el paso cuando viene 
 **Espacio de 30 minutos para que presenten los resultados**
 
 ## Taller de comunicación entre circuitos
-Vamos a conectar dos circuitos entre si utilizando comunición inalámbrica tipo IR. La misma permite transferir pocos datos por lo que vamos a enviar el valor de temperatura y grafic
+**Tiempo requerido total 15 minutos**
+Vamos a conectar dos circuitos entre si utilizando comunición inalámbrica tipo IR. La misma permite transferir pocos datos por lo que vamos a enviar el valor de temperatura y graficarlo de un lado a otro. Se debe trabajar en equipos entre sus compañeros de clase.
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2Nzg2OTkyOCwxNjg0ODk0NzY3LC0yMD
-M0MjM2NTgzLC0xMjA4MjQwODAzLDE5NDI5NDc3NTUsLTE0NjA0
-OTEzODMsMTU5MDkyMzE4NCwtMTg1ODE4NjQwOSwtMzg0Nzg0NT
-g2LC0yNzk1NzE0MjcsNTExMzYxMjc3LDIwMDA1MjgwNDMsMTEw
-NDYxMjcyMCwtMTI1NTIwMjIzNCwtMTI3NzI0NDI3LC0xODkwNT
-MwODkzLDI4MjM5OTYxNSwyMDIxNzUyOTgwLDcyMDIwNTM4MSwt
-MTgxMzIyMTUwOF19
+eyJoaXN0b3J5IjpbLTExNDg0NTY1MDIsMTY4NDg5NDc2NywtMj
+AzNDIzNjU4MywtMTIwODI0MDgwMywxOTQyOTQ3NzU1LC0xNDYw
+NDkxMzgzLDE1OTA5MjMxODQsLTE4NTgxODY0MDksLTM4NDc4ND
+U4NiwtMjc5NTcxNDI3LDUxMTM2MTI3NywyMDAwNTI4MDQzLDEx
+MDQ2MTI3MjAsLTEyNTUyMDIyMzQsLTEyNzcyNDQyNywtMTg5MD
+UzMDg5MywyODIzOTk2MTUsMjAyMTc1Mjk4MCw3MjAyMDUzODEs
+LTE4MTMyMjE1MDhdfQ==
 -->
