@@ -120,7 +120,7 @@ En este taller vamos a trabajar con los actuadores y otros sensores que la placa
 Primero entenderemos como funciona el acelerometro de tres ejes, para lo que debe cargar el ejemplo como se muestra en la siguiente imagen.
 ![Acelerometro Ejemplo](https://github.com/rgonzaleztec/makerworshops/blob/master/images/EjemploAcelerometro.png)
 Utilizar makecode para realizar esta tarea.
-
+Vamos a recrear un problema nacional el cual es restringir el paso cuando viene el tren. Para ello deberan crear su propia estación de aguja para el tren, 
 
 
 
@@ -134,7 +134,7 @@ Utilizar makecode para realizar esta tarea.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NzgyMjI1NiwtMjAzNDIzNjU4MywtMT
+eyJoaXN0b3J5IjpbMTM1MjIzOTkwOSwtMjAzNDIzNjU4MywtMT
 IwODI0MDgwMywxOTQyOTQ3NzU1LC0xNDYwNDkxMzgzLDE1OTA5
 MjMxODQsLTE4NTgxODY0MDksLTM4NDc4NDU4NiwtMjc5NTcxND
 I3LDUxMTM2MTI3NywyMDAwNTI4MDQzLDExMDQ2MTI3MjAsLTEy
