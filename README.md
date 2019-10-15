@@ -45,6 +45,17 @@ Vamos a trabajar un poco nuestros nuevos componentes.
 
 [Imagen etiquetada del circuito](https://github.com/rgonzaleztec/makerworshops/blob/master/images/classic-labeled.jpg)
 
+## Taller básico por bloques
+Gracias a la gran cantidad de opciones y facilidades que presenta la placa de Circuit PlayGround Express, se desarrollo una plataforma para Internet con la que podemos programar nuestro circuito. Los que han aprendido Scratch en sus clases de tecnología se sentirán totalmente cómodos programando en este laboratorio.
+Para inicar vamos a cargar la plataforma en un navegador para Internet, por lo que por favor abran el siguiente enlace ([aquí](https://makecode.adafruit.com/#editor)).
+
+ 1. Intentar prender un neopixel
+ 2. Utilizar sensor de luz para emitir sonido
+ 3. 
+
+
+
+
 ## Taller Básico empezando de cero
 **Tiempo requerido total 10minutos**
 
@@ -121,11 +132,11 @@ Primero entenderemos como funciona el acelerometro de tres ejes, para lo que deb
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNTgyMDg2NCwtMTQ2MDQ5MTM4MywxNT
-kwOTIzMTg0LC0xODU4MTg2NDA5LC0zODQ3ODQ1ODYsLTI3OTU3
-MTQyNyw1MTEzNjEyNzcsMjAwMDUyODA0MywxMTA0NjEyNzIwLC
-0xMjU1MjAyMjM0LC0xMjc3MjQ0MjcsLTE4OTA1MzA4OTMsMjgy
-Mzk5NjE1LDIwMjE3NTI5ODAsNzIwMjA1MzgxLC0xODEzMjIxNT
-A4LDExNjg4NDk4NDcsMTY3NTkzNzAyMSwtMjAyMzM0MTM3NSwy
-MDcyODQzOTMyXX0=
+eyJoaXN0b3J5IjpbLTQwOTA1ODg0LC0xNDYwNDkxMzgzLDE1OT
+A5MjMxODQsLTE4NTgxODY0MDksLTM4NDc4NDU4NiwtMjc5NTcx
+NDI3LDUxMTM2MTI3NywyMDAwNTI4MDQzLDExMDQ2MTI3MjAsLT
+EyNTUyMDIyMzQsLTEyNzcyNDQyNywtMTg5MDUzMDg5MywyODIz
+OTk2MTUsMjAyMTc1Mjk4MCw3MjAyMDUzODEsLTE4MTMyMjE1MD
+gsMTE2ODg0OTg0NywxNjc1OTM3MDIxLC0yMDIzMzQxMzc1LDIw
+NzI4NDM5MzJdfQ==
 -->
