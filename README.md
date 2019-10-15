@@ -125,7 +125,7 @@ Vamos a recrear un problema nacional el cual es restringir el paso cuando viene 
  - Aguja baja al sentir la vibración del tren que se aproxima (utilizando el servo)
  - Indicador visual con colores que indique si el paso esta cerrado o no
  - La aguaja permanece  por 5 segundos como mínimo abajo mientras pasa el tren y se sube automáticamente
- - 
+ - Deben crear una estación de paperl donde montar el microcontrolador que permita detectar el movimiento
 
     
 
@@ -133,11 +133,11 @@ Vamos a recrear un problema nacional el cual es restringir el paso cuando viene 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjY2OTY1MDMsLTIwMzQyMzY1ODMsLT
-EyMDgyNDA4MDMsMTk0Mjk0Nzc1NSwtMTQ2MDQ5MTM4MywxNTkw
-OTIzMTg0LC0xODU4MTg2NDA5LC0zODQ3ODQ1ODYsLTI3OTU3MT
-QyNyw1MTEzNjEyNzcsMjAwMDUyODA0MywxMTA0NjEyNzIwLC0x
-MjU1MjAyMjM0LC0xMjc3MjQ0MjcsLTE4OTA1MzA4OTMsMjgyMz
-k5NjE1LDIwMjE3NTI5ODAsNzIwMjA1MzgxLC0xODEzMjIxNTA4
-LDExNjg4NDk4NDddfQ==
+eyJoaXN0b3J5IjpbNjM2NzQ0NjMzLC0yMDM0MjM2NTgzLC0xMj
+A4MjQwODAzLDE5NDI5NDc3NTUsLTE0NjA0OTEzODMsMTU5MDky
+MzE4NCwtMTg1ODE4NjQwOSwtMzg0Nzg0NTg2LC0yNzk1NzE0Mj
+csNTExMzYxMjc3LDIwMDA1MjgwNDMsMTEwNDYxMjcyMCwtMTI1
+NTIwMjIzNCwtMTI3NzI0NDI3LC0xODkwNTMwODkzLDI4MjM5OT
+YxNSwyMDIxNzUyOTgwLDcyMDIwNTM4MSwtMTgxMzIyMTUwOCwx
+MTY4ODQ5ODQ3XX0=
 -->
