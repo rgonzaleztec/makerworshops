@@ -70,7 +70,7 @@ Verificar que el software antes indicado este instalado en su computador. Para e
 ## Taller Creativo y si creamos una lámpara
 **Tiempo requerido total 65minutos**
 
-Tenemos un problema cada uno de los estudiantes de la clase a perdido su lámpara mágica, en este taller usted tendrá como reto crearle a un compañero. Para esto deberás buscar en el grupo un compañero sin lámpara y le preguntaras:
+Tenemos un problema cada uno de los estudiantes de la clase a perdido su lámpara mágica, en este taller usted tendrá como reto crearle a un compañero su lámpara. Para esto deberás buscar en el grupo un compañero sin lámpara y le preguntaras:
 
  1. Cuáles son almenos tres de tus colores preferidos?
  2. Cuáles son las dos figuras geométricas que más le gustan?
@@ -130,7 +130,7 @@ Primero entenderemos como funciona el acelerometro de tres ejes, para lo que deb
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMzUyMTQ0NiwtMTIwODI0MDgwMywxOT
+eyJoaXN0b3J5IjpbMTgzNTMyNDY0MiwtMTIwODI0MDgwMywxOT
 QyOTQ3NzU1LC0xNDYwNDkxMzgzLDE1OTA5MjMxODQsLTE4NTgx
 ODY0MDksLTM4NDc4NDU4NiwtMjc5NTcxNDI3LDUxMTM2MTI3Ny
 wyMDAwNTI4MDQzLDExMDQ2MTI3MjAsLTEyNTUyMDIyMzQsLTEy
